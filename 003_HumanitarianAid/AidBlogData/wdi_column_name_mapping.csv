@@ -1,0 +1,35 @@
+col_name,description
+Country.Code,Country Code
+Time,Time
+DT.NFL.UNAI.CD,"Net official flows from UN agencies, UNAIDS (current US$)"
+DT.ODA.OATL.CD,Net official aid received (current US$)
+DC.DAC.USAL.CD,"Net bilateral aid flows from DAC donors, United States (current US$)"
+DC.DAC.TOTL.CD,"Net bilateral aid flows from DAC donors, Total (current US$)"
+NY.GDP.MKTP.CD,GDP (current US$)
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+NY.GDP.PCAP.CD,GDP per capita (current US$)
+SP.POP.DPND.YG,"Age dependency ratio, young (% of working-age population)"
+SH.CON.1524.FE.ZS,"Condom use, population ages 15-24, female (% of females ages 15-24)"
+SH.CON.1524.MA.ZS,"Condom use, population ages 15-24, male (% of males ages 15-24)"
+per_si_allsi.cov_pop_tot,Coverage of social insurance programs (% of population)
+per_sa_allsa.cov_pop_tot,Coverage of social safety net programs (% of population)
+per_lm_alllm.cov_pop_tot,Coverage of unemployment benefits and ALMP (% of population)
+SE.SEC.CUAT.LO.ZS,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)"
+SE.SEC.CUAT.LO.FE.ZS,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)"
+SE.SEC.CUAT.LO.MA.ZS,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+SE.PRM.CUAT.FE.ZS,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)"
+SE.PRM.CUAT.MA.ZS,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)"
+SE.PRM.CUAT.ZS,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)"
+SH.HIV.INCD.ZS,Incidence of HIV (% of uninfected population ages 15-49)
+IT.NET.USER.ZS,Individuals using the Internet (% of population)
+SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+SP.POP.TOTL,"Population, total"
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+Country.Name,Country Name
+Time.Code,Time Code
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)"
+SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)"
+SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)"
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)"
