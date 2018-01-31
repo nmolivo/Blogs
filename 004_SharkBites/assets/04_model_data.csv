@@ -1,0 +1,1228 @@
+,Type,Activity,Fatal (Y/N),ts_date,ts_year,geo_country,gmtoffset,phase,pop_lag,First Quarter,Full Moon,Last Quarter,New Moon
+0,Unprovoked,Scuba Diving,N,11/30/17,2017,Costa Rica,-6,First Quarter,4857274,1,0,0,0
+1,Unprovoked,Scuba diving,Y,11/30/17,2017,Costa Rica,-6,First Quarter,4857274,1,0,0,0
+2,Sea Disaster,2 boats capsized,Y,11/25/17,2017,Libya,3,First Quarter,6293253,1,0,0,0
+3,Sea Disaster,Air Disaster,Y,2/8/09,2009,United States,-4,Full Moon,304093966,0,1,0,0
+4,Unprovoked,Treading water,N,8/16/08,2008,United States,-4,Full Moon,301231207,0,1,0,0
+6,Unprovoked,Surfing,N,11/13/17,2017,Australia,11,Last Quarter,24127159,0,0,1,0
+7,Unprovoked,Night bathing,Y,11/4/17,2017,Cuba,-5,Full Moon,11475982,0,1,0,0
+8,Unprovoked,Snorkeling,N,10/31/17,2017,Australia,10,First Quarter,24127159,1,0,0,0
+9,Unprovoked,Surfing,N,10/28/17,2017,Australia,11,First Quarter,24127159,1,0,0,0
+10,Provoked,Measuring sharks,N,4/28/10,2010,United States,-5,Full Moon,306771529,0,1,0,0
+11,Unprovoked,Swimming,N,10/23/17,2017,Mauritius,4,New Moon,1263473,0,0,0,1
+12,Unprovoked,Surfing,N,11/18/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+13,Unprovoked,Surfing ,N,10/23/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+14,Unprovoked,Kayaking / Fishing,N,10/22/17,2017,Australia,10,New Moon,24127159,0,0,0,1
+15,Unprovoked,Swimming,N,10/23/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+16,Unprovoked,Swimming,N,10/18/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+17,Unprovoked,Surfing,N,9/25/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+19,Unprovoked,Surfing,N,9/24/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+20,Unprovoked,Surfing,N,9/25/17,2017,Australia,8,First Quarter,24127159,1,0,0,0
+21,Unprovoked,Surfing,N,9/20/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+22,Unprovoked,Surfing,N,9/16/17,2017,United States,-5,Last Quarter,323127513,0,0,1,0
+23,Unprovoked,Swimming,,9/2/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+24,Unprovoked,Body surfing,N,9/16/17,2017,Spain,0,Last Quarter,46443959,0,0,1,0
+25,Unprovoked,Surfing,N,9/2/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+27,,Fishing,N,9/15/17,2017,Samoa,14,Last Quarter,195125,0,0,1,0
+28,Boating,Fishing,N,9/14/17,2017,Australia,8,Last Quarter,24127159,0,0,1,0
+29,Unprovoked,Swimming,N,9/10/17,2017,Australia,8,Last Quarter,24127159,0,0,1,0
+30,Unprovoked,Surfing,N,9/10/17,2017,Australia,11,Last Quarter,24127159,0,0,1,0
+31,Unprovoked,Spearfishing,N,9/6/17,2017,Solomon Islands,11,Full Moon,599419,0,1,0,0
+32,Unprovoked,"Swimming, poaching abalone",Y,9/3/17,2017,South Africa,2,Full Moon,55908865,0,1,0,0
+33,Unprovoked,Surfing,N,9/3/17,2017,Japan,9,Full Moon,126994511,0,1,0,0
+34,Unprovoked,Wading,N,8/27/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+35,Unprovoked,,N,7/22/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+36,Unprovoked,Swimming,N,7/9/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+37,Unprovoked,Surfing,N,8/29/17,2017,Australia,11,First Quarter,24127159,1,0,0,0
+38,Unprovoked,Surfing,N,6/10/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+40,Unprovoked,Canoeing,N,8/26/17,2017,New Zealand,13,First Quarter,4692700,1,0,0,0
+42,Unprovoked,Spearfishing,N,8/18/17,2017,Bahamas,-5,Last Quarter,391232,0,0,1,0
+43,Unprovoked,Feeding sharks,N,5/28/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+44,Unprovoked,Snorkeling,N,8/5/17,2017,Egypt,2,Full Moon,95688681,0,1,0,0
+45,Unprovoked,,N,4/17/17,2017,United States,-5,Last Quarter,323127513,0,0,1,0
+46,Unprovoked,Surfing,N,4/13/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+47,Unprovoked,Surfing,N,4/12/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+48,Unprovoked,Surfing,N,4/11/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+49,Unprovoked,Snorkeling,N,7/27/17,2017,Bahamas,-5,New Moon,391232,0,0,0,1
+50,Unprovoked,Spearfishing,N,7/26/17,2017,Bahamas,-5,New Moon,391232,0,0,0,1
+51,Unprovoked,Surfing,N,7/24/17,2017,Saint Helena,0,New Moon,4534,0,0,0,1
+52,Unprovoked,Paddle boarding,N,4/10/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+53,Unprovoked,Swimming,N,7/23/17,2017,Spain,1,New Moon,46443959,0,0,0,1
+54,Unprovoked,SUP,N,8/23/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+55,Unprovoked,Swimming,N,8/10/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+56,Provoked,Fishing,N,8/3/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+58,Unprovoked,,N,7/29/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+59,Unprovoked,,N,7/23/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+60,Unprovoked,Swimming,N,4/10/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+61,Provoked,Fishing,N,7/7/17,2017,Mexico,-6,Full Moon,127540423,0,1,0,0
+62,Unprovoked,Surfing,N,7/7/17,2017,South Africa,2,Full Moon,55908865,0,1,0,0
+64,Unprovoked,Swimming,N,4/6/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+66,Unprovoked,Swimming,N,6/18/17,2017,United States,-5,Last Quarter,323127513,0,0,1,0
+67,Unprovoked,Swimming,N,4/5/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+69,Unprovoked,Swimming,N,6/17/17,2017,Spain,1,Last Quarter,46443959,0,0,1,0
+70,Unprovoked,Feeding sharks,N,6/14/17,2017,Bahamas,-5,Last Quarter,391232,0,0,1,0
+71,Unprovoked,Body boarding,N,6/11/17,2017,Australia,8,Full Moon,24127159,0,1,0,0
+72,Unprovoked,Surfing,N,6/10/17,2017,Australia,11,Full Moon,24127159,0,1,0,0
+73,Provoked,Touching a shark,N,5/30/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+74,Unprovoked,Surfing ,N,6/7/17,2017,United Kingdom,0,Full Moon,65637239,0,1,0,0
+75,Unprovoked,Surfing,N,3/27/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+76,Unprovoked,Snorkeling,N,6/2/17,2017,Bahamas,-5,First Quarter,391232,1,0,0,0
+77,Unprovoked,Surfing,N,4/29/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+80,Unprovoked,Spearfishing,N,5/12/17,2017,United Arab Emirates (Uae),4,Full Moon,9269612,0,1,0,0
+81,Provoked,Attempting to lasso a shark,N,5/6/17,2017,Australia,10,First Quarter,24127159,1,0,0,0
+82,Unprovoked,Snorkeling,Y,5/6/17,2017,Mexico,-7,First Quarter,127540423,1,0,0,0
+83,Unprovoked,Swimming,N,2/11/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+84,Unprovoked,,N,1/22/17,2017,United States,-5,Last Quarter,323127513,0,0,1,0
+85,Unprovoked,Surfing,N,4/29/17,2017,South Africa,2,New Moon,55908865,0,0,0,1
+86,Unprovoked,,N,1/13/17,2017,United States,-5,Full Moon,323127513,0,1,0,0
+88,Unprovoked,Body boarding,N,4/27/17,2017,New Zealand,13,New Moon,4692700,0,0,0,1
+89,Unprovoked,Wading,N,1/5/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+90,Unprovoked,Snorkeling,N,4/22/17,2017,Saint Helena,0,Last Quarter,4534,0,0,1,0
+91,Unprovoked,Surfing,N,12/27/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+93,Unprovoked,Surfing,Y,4/17/17,2017,Australia,8,Last Quarter,24127159,0,0,1,0
+94,Unprovoked,Surfing,N,10/30/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+95,Unprovoked,Surfing,N,10/29/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+96,Unprovoked,Surfing,N,10/2/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+98,Unprovoked,Surfng,N,10/1/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+99,Boating,Tagging sharks,N,2/1/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+100,Unprovoked,Surfing,N,9/18/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+101,Unprovoked,Surfing,N,9/18/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+102,Unprovoked,Surfing,N,9/18/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+103,Unprovoked,Kakaying,N,4/2/17,2017,Australia,10,First Quarter,24127159,1,0,0,0
+104,Unprovoked,Body boarding,N,9/4/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+105,Unprovoked,Surfing,N,8/29/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+106,Unprovoked,Body boarding,N,3/19/17,2017,Australia,11,Last Quarter,24127159,0,0,1,0
+107,Unprovoked,Surfing,N,8/29/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+108,Unprovoked,Washing hands,N,3/9/17,2017,Bahamas,-5,First Quarter,391232,1,0,0,0
+109,Unprovoked,Snorkeling,N,2/25/17,2017,Australia,8,New Moon,24127159,0,0,0,1
+110,Unprovoked,Surfing,N,2/24/17,2017,Australia,8,New Moon,24127159,0,0,0,1
+111,Unprovoked,Wading,N,7/29/13,2013,Mexico,-5,Last Quarter,120828307,0,0,1,0
+112,Unprovoked,Spearfishing,N,2/17/17,2017,Australia,10,Last Quarter,24127159,0,0,1,0
+113,Unprovoked,Wading,N,8/25/16,2016,United States,-5,Last Quarter,320896618,0,0,1,0
+114,Provoked,Grabbing shark for a selfie,N,2/6/17,2017,Brazil,-3,First Quarter,207652865,1,0,0,0
+115,Boating,Kayak fishing,N,2/6/17,2017,South Africa,2,First Quarter,55908865,1,0,0,0
+116,Unprovoked,Surfing,N,8/4/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+117,Unprovoked,Scuba Diving,N,2/1/17,2017,Bahamas,-5,First Quarter,391232,1,0,0,0
+118,Provoked,Lobstering,N,7/27/16,2016,United States,-5,Last Quarter,320896618,0,0,1,0
+119,Unprovoked,Scuba Diving,N,1/21/17,2017,Australia,10,Last Quarter,24127159,0,0,1,0
+120,Unprovoked,Swimming,N,1/13/17,2017,Australia,10,Full Moon,24127159,0,1,0,0
+121,Unprovoked,Surfing,N,7/16/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+122,Unprovoked,Surfing,N,1/9/17,2017,Indonesia,8,First Quarter,261115456,1,0,0,0
+124,Unprovoked,,N,7/16/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+126,Unprovoked,Swimming,N,7/6/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+127,Unprovoked,Snorkeling,N,12/24/16,2016,Australia,8,Last Quarter,23789338,0,0,1,0
+128,Unprovoked,Surf skiing ,N,12/19/16,2016,South Africa,2,Last Quarter,55011976.68,0,0,1,0
+129,Unprovoked,Free diving,N,12/14/16,2016,Australia,8,Full Moon,23789338,0,1,0,0
+130,Unprovoked,Boogie boarding,N,9/5/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+131,Provoked,Surf fishing,N,12/6/16,2016,Australia,11,First Quarter,23789338,1,0,0,0
+132,Unprovoked,Surfing,N,12/1/16,2016,Australia,11,New Moon,23789338,0,0,0,1
+133,Provoked,Fishing,N,11/28/16,2016,Australia,11,New Moon,23789338,0,0,0,1
+134,Unprovoked,Wading,N,6/21/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+135,Unprovoked,Swimming,N,6/5/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+136,Unprovoked,Swimming,N,5/29/16,2016,United States,-5,Last Quarter,320896618,0,0,1,0
+137,Unprovoked,Surfing,N,10/24/16,2016,Australia,11,Last Quarter,23789338,0,0,1,0
+138,Unprovoked,Swimming,N,5/22/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+139,Unprovoked,Surfing,N,10/15/16,2016,Australia,10,Full Moon,23789338,0,1,0,0
+140,Unprovoked,Swimming,N,5/21/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+141,Unprovoked,Swimming,N,4/24/13,2013,Mexico,-5,Full Moon,120828307,0,1,0,0
+142,Unprovoked,Surfing,N,10/12/16,2016,Australia,11,First Quarter,23789338,1,0,0,0
+143,Unprovoked,Swimming,N,5/21/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+144,Unprovoked,Swimming,N,5/18/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+145,Provoked,Teasing a shark,N,5/15/16,2016,United States,-5,First Quarter,320896618,1,0,0,0
+146,Unprovoked,Surfing,N,9/26/16,2016,Australia,11,Last Quarter,23789338,0,0,1,0
+147,Unprovoked,Swimming,N,7/15/16,2016,United States,-5,First Quarter,320896618,1,0,0,0
+148,Provoked,Fishing,N,7/7/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+149,Unprovoked,Surfing,N,4/23/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+150,Unprovoked,,N,6/27/16,2016,United States,-5,Last Quarter,320896618,0,0,1,0
+151,Unprovoked,Surfing,N,9/17/16,2016,Australia,11,Full Moon,23789338,0,1,0,0
+152,Unprovoked,Surfing,N,9/15/16,2016,Australia,11,Full Moon,23789338,0,1,0,0
+153,Boating,Fishing,N,9/15/16,2016,Australia,8,Full Moon,23789338,0,1,0,0
+154,Unprovoked,Surfing,N,6/25/16,2016,United States,-5,Last Quarter,320896618,0,0,1,0
+155,Unprovoked,Floating,N,6/21/16,2016,United States,-5,Full Moon,320896618,0,1,0,0
+156,Unprovoked,Kite surfing,Y,9/6/16,2016,New Caledonia,11,First Quarter,273000,1,0,0,0
+157,Unprovoked,Spearfishing,N,4/13/16,2016,United States,-5,First Quarter,320896618,1,0,0,0
+158,Unprovoked,Surfing,N,9/5/16,2016,Australia,8,New Moon,23789338,0,0,0,1
+159,Unprovoked,Standing,N,6/11/16,2016,United States,-5,First Quarter,320896618,1,0,0,0
+161,Unprovoked,Free diving / spearfishing,N,5/23/12,2012,Mexico,-5,New Moon,119090017,0,0,0,1
+162,Unprovoked,Spearfishing,N,,2015,Fiji,13,New Moon,885806,0,0,0,1
+164,Boating,Filming a documentary,N,,2014,New Zealand,13,New Moon,4442100,0,0,0,1
+165,Unprovoked,Fishing,N,4/7/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+167,Unprovoked,Swimming,N,3/23/11,2011,Mexico,-5,Full Moon,117318941,0,1,0,0
+168,Unprovoked,,N,3/28/16,2016,United States,-5,Last Quarter,320896618,0,0,1,0
+169,Unprovoked,Snorkeling,N,8/7/16,2016,Bahamas,-5,First Quarter,386838,1,0,0,0
+170,Unprovoked,Body surfing,N,3/11/16,2016,United States,-5,New Moon,320896618,0,0,0,1
+171,Unprovoked,,N,3/4/16,2016,United States,-5,Last Quarter,320896618,0,0,1,0
+172,Unprovoked,Swimming,N,7/29/16,2016,Spain,1,Last Quarter,46447697,0,0,1,0
+173,Unprovoked,Swimming,N,7/28/16,2016,China,8,Last Quarter,1371220000,0,0,1,0
+174,Boating,Kayaking,N,7/28/16,2016,Australia,8,Last Quarter,23789338,0,0,1,0
+175,Unprovoked,Surfing,N,11/16/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+176,Unprovoked,Surfing,N,7/26/16,2016,Australia,11,Last Quarter,23789338,0,0,1,0
+177,Unprovoked,Surfing,N,7/24/16,2016,Japan,9,Last Quarter,127141000,0,0,1,0
+178,Unprovoked,Surfing,N,7/23/16,2016,Australia,11,Full Moon,23789338,0,1,0,0
+179,Unprovoked,Spearfishing,N,7/23/16,2016,Bahamas,-5,Full Moon,386838,0,1,0,0
+180,Provoked,Fishing,N,7/20/16,2016,Australia,10,Full Moon,23789338,0,1,0,0
+181,Unprovoked,Swimming,N,11/15/15,2015,United States,-5,New Moon,318563456,0,0,0,1
+182,Unprovoked,Surfing,N,11/15/15,2015,United States,-5,New Moon,318563456,0,0,0,1
+184,Unprovoked,Wading,N,11/1/15,2015,United States,-5,Last Quarter,318563456,0,0,1,0
+185,Unprovoked,Surfing,N,10/21/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+186,Unprovoked,Scuba Diving,N,7/14/16,2016,Bahamas,-5,First Quarter,386838,1,0,0,0
+187,Unprovoked,Wading,N,7/8/16,2016,Spain,0,New Moon,46447697,0,0,0,1
+188,Unprovoked,Surfing,N,10/19/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+189,Unprovoked,Body boarding,N,10/5/15,2015,United States,-5,Last Quarter,318563456,0,0,1,0
+190,Unprovoked,Surfing,N,10/4/15,2015,United States,-5,Last Quarter,318563456,0,0,1,0
+191,Unprovoked,Surfing,N,9/29/15,2015,United States,-5,Full Moon,318563456,0,1,0,0
+192,Provoked,Fishing,N,7/4/16,2016,Australia,10,New Moon,23789338,0,0,0,1
+193,Unprovoked,Surfing,N,9/20/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+194,Unprovoked,Wading,N,9/20/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+195,Unprovoked,Scuba Diving,N,6/24/16,2016,Colombia,-5,Full Moon,48228697,0,1,0,0
+196,Unprovoked,Spearfishing,N,6/23/16,2016,South Africa,2,Full Moon,55011976.68,0,1,0,0
+197,Unprovoked,Photographing fish,N,9/20/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+198,Unprovoked,Swimming,N,9/18/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+199,Unprovoked,Surfing,N,9/17/15,2015,United States,-5,New Moon,318563456,0,0,0,1
+200,Provoked,Spearfishing,N,6/15/16,2016,Australia,8,First Quarter,23789338,1,0,0,0
+202,Unprovoked,Boogie boarding,N,10/9/15,2015,United States,-5,New Moon,318563456,0,0,0,1
+203,Unprovoked,Walking,N,8/19/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+204,Unprovoked,Surfing,N,7/26/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+205,Unprovoked,Diving,Y,6/5/16,2016,Australia,8,New Moon,23789338,0,0,0,1
+206,Unprovoked,Swimming,N,6/4/16,2016,Egypt,2,New Moon,93778172,0,0,0,1
+207,Unprovoked,Spearfishing,,6/2/16,2016,Australia,11,New Moon,23789338,0,0,0,1
+208,Unprovoked,Kite surfing,N,6/2/16,2016,New Caledonia,11,New Moon,273000,0,0,0,1
+209,Unprovoked,Surfing,Y,5/31/16,2016,Australia,8,Last Quarter,23789338,0,0,1,0
+211,Unprovoked,Swimming,N,6/17/15,2015,United States,-5,New Moon,318563456,0,0,0,1
+212,Unprovoked,Playing,N,6/7/15,2015,United States,-5,Last Quarter,318563456,0,0,1,0
+213,Unprovoked,Attempting to rescue a shark,N,6/5/15,2015,United States,-5,Full Moon,318563456,0,1,0,0
+214,Unprovoked,Standing,N,5/29/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+215,Unprovoked,Wading,N,5/29/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+216,Unprovoked,,N,9/3/15,2015,United States,-5,Last Quarter,318563456,0,0,1,0
+217,Unprovoked,Swimming,N,5/24/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+218,Provoked,Fishing,N,5/2/16,2016,New Zealand,13,Last Quarter,4595700,0,0,1,0
+219,Unprovoked,Surfing,N,4/25/16,2016,Indonesia,8,Full Moon,258162113,0,1,0,0
+220,Unprovoked,Surfing,N,8/20/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+221,Unprovoked,Surf-skiing,N,4/22/16,2016,South Africa,2,Full Moon,55011976.68,0,1,0,0
+222,Unprovoked,Swimming,N,4/19/16,2016,Australia,11,Full Moon,23789338,0,1,0,0
+223,Provoked,Spearfishing,N,4/18/16,2016,French Polynesia,-10,First Quarter,277690,1,0,0,0
+224,Unprovoked,Surfing,N,5/20/15,2015,United States,-5,New Moon,318563456,0,0,0,1
+225,Unprovoked,Walking,Y,4/9/16,2016,New Caledonia,11,New Moon,273000,0,0,0,1
+227,Unprovoked,Swimming,N,5/7/15,2015,United States,-5,Full Moon,318563456,0,1,0,0
+229,Unprovoked,,N,7/4/15,2015,United States,-5,Full Moon,318563456,0,1,0,0
+230,Unprovoked,Surfing,N,3/30/16,2016,Australia,11,Last Quarter,23789338,0,0,1,0
+231,Unprovoked,Swimming,N,7/1/15,2015,United States,-5,Full Moon,318563456,0,1,0,0
+232,Unprovoked,Surfing,N,3/28/16,2016,Australia,11,Last Quarter,23789338,0,0,1,0
+233,Provoked,,N,3/26/16,2016,Bahamas,-5,Full Moon,386838,0,1,0,0
+234,Unprovoked,Playing in the water,N,6/30/15,2015,United States,-5,Full Moon,318563456,0,1,0,0
+235,Unprovoked,Swimming,N,6/27/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+236,Unprovoked,Diving for beche-de-mer,Y,3/10/16,2016,Fiji,13,New Moon,892149,0,0,0,1
+237,Unprovoked,Wading,N,4/26/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+238,Unprovoked,Fishing,N,3/3/16,2016,Australia,9,Last Quarter,23789338,0,0,1,0
+239,Unprovoked,Swimming,N,3/2/16,2016,Brazil,-3,Last Quarter,205962108,0,0,1,0
+240,Unprovoked,Kite surfing,N,2/22/16,2016,New Caledonia,11,Full Moon,273000,0,1,0,0
+241,Unprovoked,Spearfishing,N,2/19/16,2016,New Caledonia,11,First Quarter,273000,1,0,0,0
+242,Unprovoked,Wading,N,2/12/16,2016,Dominican Republic,-4,First Quarter,10528394,1,0,0,0
+245,Unprovoked,Walking,N,2/5/16,2016,Australia,10,New Moon,23789338,0,0,0,1
+246,Unprovoked,Windsurfing,N,2/4/16,2016,Australia,11,Last Quarter,23789338,0,0,1,0
+247,Boating,Kayak fishing,N,1/29/16,2016,South Africa,2,Last Quarter,55011976.68,0,0,1,0
+248,Unprovoked,Standing,N,6/26/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+249,Unprovoked,Body surfing?,N,6/25/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+250,Unprovoked,Swimming,N,6/24/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+251,Boating,Fishing,N,1/24/16,2016,United Arab Emirates (Uae),4,Full Moon,9154302,0,1,0,0
+252,Unprovoked,Standing,N,6/23/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+253,Unprovoked,Surfing,N,1/11/16,2016,Australia,10,New Moon,23789338,0,0,0,1
+254,Unprovoked,Wading,N,1/5/16,2016,Australia,10,Last Quarter,23789338,0,0,1,0
+255,Unprovoked,Spearfishing,N,1/2/16,2016,Australia,10,Last Quarter,23789338,0,0,1,0
+256,Boating,Kayak Fishing,N,12/26/15,2015,South Africa,2,Full Moon,54146734.74,0,1,0,0
+257,Unprovoked,Swimming,N,12/25/15,2015,Spain,0,Full Moon,46480882,0,1,0,0
+258,Unprovoked,Photographing the shark,N,4/13/15,2015,United States,-5,Last Quarter,318563456,0,0,1,0
+259,Unprovoked,Surfing,N,12/21/15,2015,Australia,11,First Quarter,23460694,1,0,0,0
+260,Unprovoked,Scuba diving,N,12/21/15,2015,Brazil,-3,First Quarter,204213133,1,0,0,0
+261,Unprovoked,Sea disaster,Y,12/19/15,2015,Aruba,-4,First Quarter,103795,1,0,0,0
+262,Boating,Fishing,N,12/13/15,2015,Australia,11,New Moon,23460694,0,0,0,1
+263,Unprovoked,Lobster fishing,N,12/11/15,2015,Bahamas,-5,New Moon,382169,0,0,0,1
+264,Unprovoked,Swimming / Wading,N,12/8/15,2015,South Africa,2,New Moon,54146734.74,0,0,0,1
+265,Unprovoked,Snorkeling,N,11/20/15,2015,Ecuador,-6,First Quarter,15903112,1,0,0,0
+266,Unprovoked,Wading,N,6/14/15,2015,United States,-5,New Moon,318563456,0,0,0,1
+267,Unprovoked,Wading,N,6/14/15,2015,United States,-5,New Moon,318563456,0,0,0,1
+268,Unprovoked,Boogie boarding,N,6/11/15,2015,United States,-5,Last Quarter,318563456,0,0,1,0
+269,Unprovoked,Surfing,N,11/10/15,2015,Australia,11,New Moon,23460694,0,0,0,1
+270,Unprovoked,Spearfishing,N,4/3/15,2015,United States,-5,Full Moon,318563456,0,1,0,0
+271,Unprovoked,,N,1/1/15,2015,United States,-5,First Quarter,318563456,1,0,0,0
+272,Unprovoked,Surfing,N,11/16/14,2014,United States,-5,Last Quarter,316204908,0,0,1,0
+273,Unprovoked,Fishing,N,11/1/15,2015,Mozambique,2,Last Quarter,27212382,0,0,1,0
+274,Unprovoked,Spearfishing,N,10/30/15,2015,Australia,8,Full Moon,23460694,0,1,0,0
+275,Unprovoked,Surfing,N,11/8/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+276,Unprovoked,Surfing,N,10/25/15,2015,South Africa,2,Full Moon,54146734.74,0,1,0,0
+277,Unprovoked,Body surfing or Boogie boarding,N,10/12/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+278,Unprovoked,Surfing,N,10/5/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+279,Unprovoked,Fishing for shrimp,Y,10/17/15,2015,Mozambique,2,First Quarter,27212382,1,0,0,0
+280,Unprovoked,,N,5/15/15,2015,United States,-5,New Moon,318563456,0,0,0,1
+281,Unprovoked,Surfing,N,10/5/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+282,Unprovoked,Fishing,N,10/7/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+283,Unprovoked,Surfing,N,9/21/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+284,Provoked,Fishing,N,9/2/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+285,Unprovoked,Fishing,N,10/8/15,2015,Mozambique,2,Last Quarter,27212382,0,0,1,0
+286,Unprovoked,Surfing,N,10/7/15,2015,Australia,8,Last Quarter,23460694,0,0,1,0
+287,Unprovoked,Body surfing,N,8/31/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+288,Unprovoked,Surfing,N,8/29/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+290,Unprovoked,Standing in inner tube,N,10/14/14,2014,United States,-5,Last Quarter,316204908,0,0,1,0
+291,Unprovoked,Snorkeling,N,9/26/15,2015,Australia,10,Full Moon,23460694,0,1,0,0
+292,Provoked,Fishing for sharks,N,8/25/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+293,Unprovoked,,N,8/10/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+294,Unprovoked,Swimming,N,8/9/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+295,Unprovoked,Swimming,N,8/5/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+296,Unprovoked,Surfing,N,8/2/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+297,Boating,Kayaking ,N,9/3/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+298,Unprovoked,Boogie boarding,N,8/2/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+299,Unprovoked,Surfing,N,9/8/15,2015,Australia,11,Last Quarter,23460694,0,0,1,0
+300,Unprovoked,Standing,N,7/21/14,2014,United States,-5,Last Quarter,316204908,0,0,1,0
+301,Unprovoked,Surfing,N,7/9/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+302,Unprovoked,Surf-skiing,N,9/4/15,2015,Australia,11,Last Quarter,23460694,0,0,1,0
+303,Unprovoked,Swimming,N,6/1/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+304,Unprovoked,Wading,N,9/1/15,2015,Thailand,7,Full Moon,68416772,0,1,0,0
+305,Provoked,Fishing,N,8/28/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+306,Unprovoked,Surfing,N,8/27/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+307,Unprovoked,Standing,N,8/27/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+308,Unprovoked,Surfing,N,8/22/15,2015,Australia,11,First Quarter,23460694,1,0,0,0
+309,Unprovoked,Body boarding,N,5/15/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+310,Unprovoked,Kite boarding,N,8/24/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+311,Unprovoked,Wading,N,5/13/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+314,Unprovoked,Surfing,N,7/31/15,2015,Australia,11,Full Moon,23460694,0,1,0,0
+315,Unprovoked,Surfing,N,7/28/15,2015,Costa Rica,-6,Full Moon,4757575,0,1,0,0
+316,,Surfing,,7/27/15,2015,Australia,11,First Quarter,23460694,1,0,0,0
+317,Unprovoked,Surfing,N,5/1/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+318,Unprovoked,Boogie boarding,N,8/6/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+319,Unprovoked,Scallop diving on hookah,Y,7/25/15,2015,Australia,11,First Quarter,23460694,1,0,0,0
+320,Unprovoked,Swimming,N,4/22/14,2014,United States,-5,Last Quarter,316204908,0,0,1,0
+321,Unprovoked,Surfing,N,7/23/15,2015,Australia,11,First Quarter,23460694,1,0,0,0
+322,Unprovoked,Swimming,N,7/26/08,2008,Mexico,-7,Last Quarter,111836346,0,0,1,0
+323,Unprovoked,Surfing,N,7/19/15,2015,South Africa,2,New Moon,54146734.74,0,0,0,1
+324,Unprovoked,Wading,N,4/15/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+325,Unprovoked,Surfing,N,4/4/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+327,Unprovoked,Spearfishing,N,7/4/15,2015,Bahamas,-5,Full Moon,382169,0,1,0,0
+328,Unprovoked,Swimming,N,7/27/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+329,Unprovoked,Surfing,N,7/3/15,2015,Australia,11,Full Moon,23460694,0,1,0,0
+330,Unprovoked,Body boarding ,N,7/2/15,2015,Australia,11,Full Moon,23460694,0,1,0,0
+331,Unprovoked,Surfing,N,4/4/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+332,Unprovoked,Surfing,N,6/30/15,2015,Australia,11,Full Moon,23460694,0,1,0,0
+334,Unprovoked,Body surfing,N,7/12/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+335,Unprovoked,Body Boarding,N,6/27/15,2015,South Africa,2,First Quarter,54146734.74,1,0,0,0
+336,Unprovoked,Kite Surfing,N,3/22/14,2014,United States,-5,Last Quarter,316204908,0,0,1,0
+337,Unprovoked,Surfing,N,6/26/15,2015,South Africa,2,First Quarter,54146734.74,1,0,0,0
+338,Unprovoked,Body surfing,N,7/3/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+339,Provoked,Swimming,N,6/25/15,2015,Australia,8,First Quarter,23460694,1,0,0,0
+340,Unprovoked,Standing,N,6/9/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+341,Unprovoked,Surfing,N,3/21/14,2014,United States,-5,Last Quarter,316204908,0,0,1,0
+343,Unprovoked,Surfing,N,3/2/14,2014,United States,-5,New Moon,316204908,0,0,0,1
+344,Unprovoked,Spearfishing,N,6/19/15,2015,Puerto Rico,-4,New Moon,3534874,0,0,0,1
+345,Unprovoked,Surfing,N,12/5/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+346,Unprovoked,Surfing,N,5/11/14,2014,United States,-5,Full Moon,316204908,0,1,0,0
+347,Unprovoked,Swimming,N,5/6/14,2014,United States,-5,First Quarter,316204908,1,0,0,0
+348,Unprovoked,Surfing,N,10/31/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+349,Unprovoked,Wading,N,10/11/13,2013,United States,-5,First Quarter,313998379,1,0,0,0
+350,Unprovoked,Surfing,N,9/29/13,2013,United States,-5,Last Quarter,313998379,0,0,1,0
+351,Unprovoked,Swimming,N,9/21/13,2013,United States,-5,Full Moon,313998379,0,1,0,0
+352,Unprovoked,Surfing,N,6/1/15,2015,Reunion,4,Full Moon,852204,0,1,0,0
+353,Unprovoked,Surfing,N,9/14/13,2013,United States,-5,First Quarter,313998379,1,0,0,0
+354,Unprovoked,Surfing,N,9/8/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+355,Unprovoked,Spearfishing,N,5/25/15,2015,French Polynesia,-10,First Quarter,275484,1,0,0,0
+356,Provoked,Surfing,N,9/7/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+357,Unprovoked,Swimming,N,9/1/13,2013,United States,-5,Last Quarter,313998379,0,0,1,0
+358,Provoked,,N,9/1/13,2013,United States,-5,Last Quarter,313998379,0,0,1,0
+359,Unprovoked,Snorkeling,Y,5/9/15,2015,New Caledonia,11,Last Quarter,268000,0,0,1,0
+360,Unprovoked,Body boarding,N,11/7/13,2013,United States,-5,First Quarter,313998379,1,0,0,0
+361,Unprovoked,Surfing,N,5/3/15,2015,Australia,11,Full Moon,23460694,0,1,0,0
+362,Unprovoked,Diving,N,5/2/15,2015,South Africa,2,Full Moon,54146734.74,0,1,0,0
+363,Unprovoked,Casting a net,N,8/31/13,2013,United States,-5,Last Quarter,313998379,0,0,1,0
+364,Unprovoked,Fishing,N,7/31/13,2013,United States,-5,Last Quarter,313998379,0,0,1,0
+365,Unprovoked,Surfing,N,4/25/15,2015,Australia,9,First Quarter,23460694,1,0,0,0
+366,Unprovoked,Surf skiing ,N,4/24/15,2015,Australia,11,First Quarter,23460694,1,0,0,0
+367,Unprovoked,Swimming ,N,7/15/13,2013,United States,-5,First Quarter,313998379,1,0,0,0
+368,Unprovoked,Surfing,Y,4/12/15,2015,Reunion,4,Last Quarter,852204,0,0,1,0
+369,Unprovoked,Swimming,N,6/25/13,2013,United States,-5,Full Moon,313998379,0,1,0,0
+370,Unprovoked,Paddle boarding,N,4/11/15,2015,Australia,11,Last Quarter,23460694,0,0,1,0
+373,Boating,Kayak Fishing,N,3/26/15,2015,South Africa,2,First Quarter,54146734.74,1,0,0,0
+374,Unprovoked,Swimming,Y,3/21/15,2015,Egypt,2,New Moon,91812566,0,0,0,1
+375,Unprovoked,Surfing,N,6/14/13,2013,United States,-5,First Quarter,313998379,1,0,0,0
+376,Unprovoked,Hand feeding sharks,N,3/16/15,2015,French Polynesia,-10,Last Quarter,275484,0,0,1,0
+377,Boating,Fishing,N,3/11/15,2015,Australia,11,Last Quarter,23460694,0,0,1,0
+378,Provoked,Fishing,N,3/10/15,2015,Mexico,-7,Last Quarter,124221600,0,0,1,0
+379,Unprovoked,Sitting in the water,N,3/7/15,2015,French Polynesia,-10,Full Moon,275484,0,1,0,0
+381,Unprovoked,Body boarding,N,6/18/17,2017,Reunion,4,Last Quarter,864388,0,0,1,0
+382,Unprovoked,Surfing,Y,2/9/15,2015,Australia,11,Last Quarter,23460694,0,0,1,0
+383,Unprovoked,Surfing,N,2/8/15,2015,Australia,11,Full Moon,23460694,0,1,0,0
+384,Unprovoked,Bodysurfing,N,2/5/15,2015,Australia,11,Full Moon,23460694,0,1,0,0
+385,Boating,Rowing,N,1/30/15,2015,Australia,10,First Quarter,23460694,1,0,0,0
+386,Provoked,Fishing for sharks,N,6/6/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+387,Unprovoked,Surfing,N,1/24/15,2015,Australia,11,First Quarter,23460694,1,0,0,0
+388,Unprovoked,Floating,N,1/23/15,2015,South Africa,2,New Moon,54146734.74,0,0,0,1
+389,Unprovoked,Swimming,N,9/7/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+391,Boating,Fishing,N,1/17/15,2015,Australia,11,New Moon,23460694,0,0,0,1
+392,Unprovoked,Filming,N,1/16/15,2015,Australia,11,Last Quarter,23460694,0,0,1,0
+393,Unprovoked,Swimming,N,5/23/13,2013,United States,-5,Full Moon,313998379,0,1,0,0
+394,Unprovoked,Snorkeling,N,1/6/15,2015,Bahamas,-5,Full Moon,382169,0,1,0,0
+395,Unprovoked,Surfing,N,1/3/15,2015,South Africa,2,Full Moon,54146734.74,0,1,0,0
+396,Unprovoked,Surfing,N,5/4/13,2013,United States,-5,Last Quarter,313998379,0,0,1,0
+397,Unprovoked,Surfing,N,12/29/14,2014,Australia,11,First Quarter,23117353,1,0,0,0
+398,Unprovoked,Spearfishing,Y,12/29/14,2014,Australia,8,First Quarter,23117353,1,0,0,0
+399,Sea Disaster,,N,12/28/14,2014,Greece,2,First Quarter,10965211,1,0,0,0
+401,Unprovoked,Playing in the surf,N,4/17/13,2013,United States,-5,First Quarter,313998379,1,0,0,0
+402,Provoked,Fishing,N,12/28/14,2014,Australia,11,First Quarter,23117353,1,0,0,0
+403,Unprovoked,Diving / Filming,N,12/23/14,2014,Japan,9,New Moon,127445000,0,0,0,1
+404,Unprovoked,Spearfishing,Y,12/15/14,2014,Australia,10,Last Quarter,23117353,0,0,1,0
+405,Provoked,Fishing for blue sharks,N,12/3/14,2014,Spain,1,Full Moon,46620045,0,1,0,0
+406,Unprovoked,Surfing,N,11/29/14,2014,Australia,8,First Quarter,23117353,1,0,0,0
+407,Provoked,Fishing,Y,11/20/14,2014,Mauritius,4,New Moon,1258653,0,0,0,1
+408,Boating,Fishing,N,11/19/14,2014,Australia,8,New Moon,23117353,0,0,0,1
+409,Unprovoked,Surfing,N,4/13/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+410,Unprovoked,Surfing,N,8/8/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+411,Unprovoked,Swimming,N,4/4/13,2013,United States,-5,Last Quarter,313998379,0,0,1,0
+412,Unprovoked,Surfing,N,11/10/14,2014,Australia,11,Full Moon,23117353,0,1,0,0
+413,Unprovoked,Swimming,N,7/29/13,2013,United States,-5,Last Quarter,313998379,0,0,1,0
+414,Unprovoked,Surfing,N,2/10/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+415,Provoked,Surfing,N,10/30/14,2014,Australia,11,First Quarter,23117353,1,0,0,0
+416,Unprovoked,Wading,N,7/9/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+417,Unprovoked,,N,12/31/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+418,Unprovoked,Swimming,N,6/18/13,2013,United States,-5,First Quarter,313998379,1,0,0,0
+419,Unprovoked,Swimming,N,12/30/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+420,Unprovoked,Surfing,N,10/17/14,2014,Australia,11,Last Quarter,23117353,0,0,1,0
+421,Unprovoked,Boogie Boarding,N,6/6/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+422,Unprovoked,Surfing,N,11/4/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+423,Boating,Kayaking,N,10/11/14,2014,Australia,8,Full Moon,23117353,0,1,0,0
+424,Unprovoked,,N,10/18/12,2012,United States,-5,New Moon,311663358,0,0,0,1
+425,Unprovoked,Surfing,N,10/18/12,2012,United States,-5,New Moon,311663358,0,0,0,1
+427,Unprovoked,Surfing,N,9/24/12,2012,United States,-5,First Quarter,311663358,1,0,0,0
+428,Unprovoked,Surfing,N,9/16/12,2012,United States,-5,New Moon,311663358,0,0,0,1
+429,Unprovoked,Surfing,N,9/10/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+430,Unprovoked,Surfing,N,10/2/14,2014,Australia,8,First Quarter,23117353,1,0,0,0
+431,Unprovoked,Surfing,N,9/8/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+432,Unprovoked,Feeding fish,N,9/13/14,2014,French Polynesia,-10,Last Quarter,273528,0,0,1,0
+433,Unprovoked,Surfing,N,9/8/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+434,Unprovoked,Swimming,Y,9/9/14,2014,Australia,11,Full Moon,23117353,0,1,0,0
+435,Unprovoked,Swimming,N,9/6/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+436,Unprovoked,Surfing,N,9/6/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+437,Unprovoked,Surfing,N,9/4/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+438,Unprovoked,Playing with an air mattress,N,,2014,Spain,1,New Moon,46620045,0,0,0,1
+439,Unprovoked,Surfing,N,9/2/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+440,Unprovoked,Boogie boarding,N,9/2/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+441,Unprovoked,Swimming or boogie boarding,N,8/31/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+442,Unprovoked,Free diving ,N,8/5/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+443,Unprovoked,Swimming,N,8/27/14,2014,Spain,1,New Moon,46620045,0,0,0,1
+444,Unprovoked,Surfing,N,6/26/12,2012,United States,-5,First Quarter,311663358,1,0,0,0
+445,Provoked,Fishing,N,6/14/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+446,Unprovoked,Surfing,N,6/2/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+447,Unprovoked,Surfing,N,5/20/12,2012,United States,-5,New Moon,311663358,0,0,0,1
+448,Unprovoked,Spearfishing,N,8/16/14,2014,Australia,8,Last Quarter,23117353,0,0,1,0
+449,Unprovoked,Swimming,N,5/6/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+450,Unprovoked,Surfing,N,4/19/12,2012,United States,-5,New Moon,311663358,0,0,0,1
+451,Unprovoked,Spearfishing,N,8/9/14,2014,Bahamas,-5,Full Moon,377240,0,1,0,0
+452,Unprovoked,Surfing,N,3/15/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+453,Unprovoked,Surfing,N,3/14/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+454,Provoked,Kite Surfing,N,2/26/12,2012,United States,-5,First Quarter,311663358,1,0,0,0
+455,Unprovoked,Body surfing,N,7/24/12,2012,United States,-5,First Quarter,311663358,1,0,0,0
+457,Unprovoked,Swimming,N,7/7/12,2012,United States,-5,Full Moon,311663358,0,1,0,0
+458,Unprovoked,Surfing,N,8/1/14,2014,South Africa,2,First Quarter,53311955.61,1,0,0,0
+459,Unprovoked,,N,12/31/11,2011,United States,-5,First Quarter,309348193,1,0,0,0
+460,Unprovoked,Body boarding,Y,4/29/17,2017,Reunion,4,New Moon,864388,0,0,0,1
+461,Unprovoked,Wading,N,6/15/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+462,Unprovoked,Wading,N,7/20/14,2014,Spain,0,Last Quarter,46620045,0,0,1,0
+463,Unprovoked,Surfing,N,12/23/11,2011,United States,-5,New Moon,309348193,0,0,0,1
+464,Unprovoked,Swimming,N,6/14/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+465,Unprovoked,Swimming,N,6/14/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+466,Unprovoked,Swimming,N,6/14/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+467,Unprovoked,Swimming,N,6/12/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+468,Unprovoked,Surfing,N,10/11/11,2011,United States,-5,Full Moon,309348193,0,1,0,0
+469,Unprovoked,Boogie Boarding,N,5/31/12,2012,United States,-5,First Quarter,311663358,1,0,0,0
+470,Unprovoked,Wading,N,5/29/12,2012,United States,-5,First Quarter,311663358,1,0,0,0
+471,Boat,Transatlantic Rowing,N,6/27/14,2014,St. Martin,-4,New Moon,31264,0,0,0,1
+472,Unprovoked,Spearfishing,N,6/25/14,2014,Bahamas,-5,New Moon,377240,0,0,0,1
+473,Unprovoked,Surfing,N,6/18/14,2014,Australia,9,Last Quarter,23117353,0,0,1,0
+474,Unprovoked,Body boarding,N,6/18/14,2014,Australia,9,Last Quarter,23117353,0,0,1,0
+475,Provoked,Petting a shark,N,6/17/14,2014,Australia,8,Last Quarter,23117353,0,0,1,0
+476,Unprovoked,Fishing,N,6/9/14,2014,Brazil,-3,First Quarter,202408632,1,0,0,0
+477,Unprovoked,Wade fishing,N,10/2/11,2011,United States,-5,First Quarter,309348193,1,0,0,0
+478,Unprovoked,Body boarding,N,6/9/14,2014,Australia,9,First Quarter,23117353,1,0,0,0
+479,Unprovoked,Surfing,N,6/8/14,2014,Japan,9,First Quarter,127445000,1,0,0,0
+480,Unprovoked,Spearfishing,N,9/24/11,2011,United States,-5,Last Quarter,309348193,0,0,1,0
+481,Unprovoked,Surfing,N,9/16/11,2011,United States,-5,Full Moon,309348193,0,1,0,0
+482,Unprovoked,Surfing,N,6/1/14,2014,Australia,11,New Moon,23117353,0,0,0,1
+483,Unprovoked,Surfing,N,9/2/11,2011,United States,-5,First Quarter,309348193,1,0,0,0
+484,Unprovoked,Fell into the water,N,5/27/14,2014,Australia,10,New Moon,23117353,0,0,0,1
+485,Unprovoked,Scuba diving,N,5/23/14,2014,Wallis and Futuna,12,Last Quarter,12197,0,0,1,0
+486,Provoked,Teasing a shark,N,5/22/14,2014,Australia,11,Last Quarter,23117353,0,0,1,0
+487,Unprovoked,Surfing,N,8/31/11,2011,United States,-5,New Moon,309348193,0,0,0,1
+488,Unprovoked,Surfing,N,5/14/14,2014,Australia,9,Full Moon,23117353,0,1,0,0
+489,Unprovoked,Scuba diving,N,6/14/11,2011,United States,-5,Full Moon,309348193,0,1,0,0
+490,Unprovoked,Wading,N,6/6/11,2011,United States,-5,First Quarter,309348193,1,0,0,0
+491,Unprovoked,Body surfing,N,5/21/11,2011,United States,-5,Full Moon,309348193,0,1,0,0
+492,Unprovoked,Surfing,N,5/21/11,2011,United States,-5,Full Moon,309348193,0,1,0,0
+493,Unprovoked,Diving,N,5/4/14,2014,South Africa,2,First Quarter,53311955.61,1,0,0,0
+494,Provoked,Fishing ,N,5/13/11,2011,United States,-5,First Quarter,309348193,1,0,0,0
+495,Unprovoked,Spearfishing,N,4/24/14,2014,Australia,8,Last Quarter,23117353,0,0,1,0
+496,Unprovoked,Spearfishing,N,5/4/11,2011,United States,-5,New Moon,309348193,0,0,0,1
+497,Unprovoked,Jumping in the waves,N,9/24/11,2011,United States,-5,Last Quarter,309348193,0,0,1,0
+498,Boat,Shark watching,N,4/12/14,2014,South Africa,2,Full Moon,53311955.61,0,1,0,0
+499,Provoked,Fishing,N,4/12/14,2014,South Africa,2,Full Moon,53311955.61,0,1,0,0
+500,Unprovoked,Surfing ,N,4/23/11,2011,United States,-5,Last Quarter,309348193,0,0,1,0
+501,Unprovoked,Swimming,N,9/7/10,2010,United States,-5,New Moon,306771529,0,0,0,1
+502,Unprovoked,Swimming,Y,4/3/14,2014,Australia,11,New Moon,23117353,0,0,0,1
+504,Unprovoked,Swimming,Y,3/22/14,2014,South Africa,2,Last Quarter,53311955.61,0,0,1,0
+505,Unprovoked,Surfing,N,9/4/10,2010,United States,-5,Last Quarter,306771529,0,0,1,0
+506,Unprovoked,Surfing,N,8/24/11,2011,United States,-5,Last Quarter,309348193,0,0,1,0
+507,Unprovoked,Kite Surfing,N,3/18/14,2014,New Caledonia,11,Full Moon,263000,0,1,0,0
+508,Unprovoked,Surfing,N,3/18/14,2014,Australia,11,Full Moon,23117353,0,1,0,0
+510,Unprovoked,Swimming,N,3/12/14,2014,Australia,11,First Quarter,23117353,1,0,0,0
+512,Unprovoked,,N,8/24/11,2011,United States,-5,Last Quarter,309348193,0,0,1,0
+513,Unprovoked,Kitesurfing,N,2/20/14,2014,French Polynesia,-10,Last Quarter,273528,0,0,1,0
+514,Boating,Sailing,N,2/17/14,2014,Papua New Guinea,10,Full Moon,7592865,0,1,0,0
+515,Unprovoked,Spearfishing / Free diving,Y,2/8/14,2014,Australia,9,First Quarter,23117353,1,0,0,0
+516,Provoked,Fishing,N,2/7/14,2014,Trinidad & Tobago,-4,First Quarter,1348248,1,0,0,0
+517,Unprovoked,Surfing,N,2/7/14,2014,New Zealand,13,First Quarter,4442100,1,0,0,0
+518,Provoked,Fishing,N,1/26/14,2014,Australia,11,Last Quarter,23117353,0,0,1,0
+519,Unprovoked,Spearfishing,N,1/25/14,2014,New Zealand,13,Last Quarter,4442100,0,0,1,0
+520,Sea Disaster,Sea disaster,N,1/4/14,2014,Japan,9,New Moon,127445000,0,0,0,1
+521,Unprovoked,Surfing,N,12/25/13,2013,Ecuador,-6,Last Quarter,15419666,0,0,1,0
+522,Unprovoked,Snorkeling,N,12/16/13,2013,New Caledonia,11,Full Moon,259000,0,1,0,0
+523,Unprovoked,Surfing,N,12/13/13,2013,South Africa,2,First Quarter,52506515.08,1,0,0,0
+524,Unprovoked,Attempting to remove fishing net from submerged object,N,12/11/13,2013,Kiribati,12,First Quarter,106613,1,0,0,0
+525,Unprovoked,Wading,N,8/17/11,2011,United States,-5,Full Moon,309348193,0,1,0,0
+527,Unprovoked,Surfing,N,12/2/13,2013,Australia,11,New Moon,22728254,0,0,0,1
+529,Unprovoked,Body boarding,Y,11/29/13,2013,Australia,11,Last Quarter,22728254,0,0,1,0
+530,Unprovoked,Swimming,N,8/11/11,2011,United States,-5,Full Moon,309348193,0,1,0,0
+531,Unprovoked,Surfing,Y,11/22/13,2013,Australia,8,Last Quarter,22728254,0,0,1,0
+532,Unprovoked,Wade Fishing,N,7/25/11,2011,United States,-5,Last Quarter,309348193,0,0,1,0
+533,Unprovoked,Surfing,N,11/10/13,2013,Australia,8,First Quarter,22728254,1,0,0,0
+534,Provoked,Shark fishing,N,11/7/13,2013,Bahamas,-5,First Quarter,372039,1,0,0,0
+535,Unprovoked,Boogie Boarding,N,7/19/11,2011,United States,-5,Full Moon,309348193,0,1,0,0
+536,Unprovoked,Surfing,N,9/3/10,2010,United States,-5,Last Quarter,306771529,0,0,1,0
+537,Unprovoked,Surfing,N,9/3/10,2010,United States,-5,Last Quarter,306771529,0,0,1,0
+538,Unprovoked,Snorkeling,N,10/26/13,2013,Australia,8,Last Quarter,22728254,0,0,1,0
+539,Unprovoked,Body boarding,Y,2/21/17,2017,Reunion,4,Last Quarter,864388,0,0,1,0
+540,Unprovoked,Diving for crayfish,N,10/24/13,2013,Australia,8,Last Quarter,22728254,0,0,1,0
+541,Unprovoked,Surfing,N,10/23/13,2013,Australia,11,Last Quarter,22728254,0,0,1,0
+542,Unprovoked,Boogie Boarding,N,8/18/10,2010,United States,-5,First Quarter,306771529,1,0,0,0
+544,Unprovoked,Standing,N,8/2/10,2010,United States,-5,Last Quarter,306771529,0,0,1,0
+545,Unprovoked,Swimming / snorkeling,Y,10/8/13,2013,South Africa,2,New Moon,52506515.08,0,0,0,1
+546,Unprovoked,Diving for Abalone,N,10/5/13,2013,Australia,8,New Moon,22728254,0,0,0,1
+547,Unprovoked,Surfing,N,7/23/10,2010,United States,-5,Full Moon,306771529,0,1,0,0
+548,Unprovoked,Surfing,N,7/17/10,2010,United States,-5,First Quarter,306771529,1,0,0,0
+549,Unprovoked,Scuba diving,N,1/31/11,2011,United States,-5,New Moon,309348193,0,0,0,1
+550,Provoked,Diving,N,9/25/13,2013,Israel,2,Last Quarter,7910500,0,0,1,0
+551,Unprovoked,Surfing,N,9/24/10,2010,United States,-5,Full Moon,306771529,0,1,0,0
+552,Provoked,Fishing,N,7/11/10,2010,United States,-5,New Moon,306771529,0,0,0,1
+553,Unprovoked,Boogie Boarding,N,6/10/10,2010,United States,-5,New Moon,306771529,0,0,0,1
+554,Unprovoked,Surfing,N,,2010,United States,-5,New Moon,306771529,0,0,0,1
+555,Provoked,Fishing,N,5/30/10,2010,United States,-5,Full Moon,306771529,0,1,0,0
+556,Unprovoked,Wading,N,5/1/10,2010,United States,-5,Full Moon,306771529,0,1,0,0
+557,Unprovoked,Surfing,N,8/7/10,2010,United States,-5,New Moon,306771529,0,0,0,1
+558,Provoked,Surf fishing / wading,N,2/6/10,2010,United States,-5,Last Quarter,306771529,0,0,1,0
+559,Unprovoked,Kite Boarding,Y,2/3/10,2010,United States,-5,Last Quarter,306771529,0,0,1,0
+560,Unprovoked,Standing,N,7/25/10,2010,United States,-5,Full Moon,306771529,0,1,0,0
+561,Unprovoked,,N,9/1/13,2013,Bahamas,-5,Last Quarter,372039,0,0,1,0
+562,Unprovoked,Spearfishing,N,1/6/10,2010,United States,-5,Last Quarter,306771529,0,0,1,0
+563,Unprovoked,Spearfishing,N,8/31/13,2013,Bahamas,-5,Last Quarter,372039,0,0,1,0
+564,Unprovoked,Swimming,N,7/19/10,2010,United States,-5,First Quarter,306771529,1,0,0,0
+565,Unprovoked,Swimming,N,7/17/10,2010,United States,-5,First Quarter,306771529,1,0,0,0
+566,Provoked,Longline fishing for sharks,N,8/25/13,2013,France,1,Last Quarter,64819669,0,0,1,0
+567,Unprovoked,Surfing,N,11/13/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+568,Unprovoked,Wrangling a shark,N,8/18/13,2013,Australia,11,Full Moon,22728254,0,1,0,0
+569,Unprovoked,Surfing,N,11/11/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+570,Provoked,Fishing,N,7/3/10,2010,United States,-5,Last Quarter,306771529,0,0,1,0
+571,Unprovoked,Boogie Boarding,N,6/25/10,2010,United States,-5,Full Moon,306771529,0,1,0,0
+572,Unprovoked,Swimming,N,6/25/10,2010,United States,-5,Full Moon,306771529,0,1,0,0
+573,Unprovoked,Swimming,N,9/26/09,2009,United States,-5,First Quarter,304093966,1,0,0,0
+574,Unprovoked,Attempting to free the shark,N,8/5/13,2013,South Africa,2,New Moon,52506515.08,0,0,0,1
+575,Unprovoked,Swimming,N,8/10/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+576,Provoked,Swimming,N,7/4/09,2009,United States,-5,Full Moon,304093966,0,1,0,0
+578,Unprovoked,Spearfishing,N,7/29/13,2013,Bahamas,-5,Last Quarter,372039,0,0,1,0
+579,Unprovoked,Surfing,N,8/27/16,2016,Reunion,4,Last Quarter,858166,0,0,1,0
+580,Provoked,Swimming,N,5/25/09,2009,United States,-5,New Moon,304093966,0,0,0,1
+581,Unprovoked,Cleaning fish,N,7/28/13,2013,Bahamas,-5,Last Quarter,372039,0,0,1,0
+582,Unprovoked,Diving,N,7/22/13,2013,Bahamas,-5,Full Moon,372039,0,1,0,0
+583,Unprovoked,Swimming,Y,7/19/13,2013,Brazil,-3,First Quarter,200560983,1,0,0,0
+584,Unprovoked,Surfing,N,5/17/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+585,Unprovoked,Surfing,N,5/16/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+586,Unprovoked,Swimming & snorkeling,Y,7/14/13,2013,Reunion,4,First Quarter,840121,1,0,0,0
+587,Unprovoked,Swimming,Y,7/11/13,2013,Diego Garcia,6,New Moon,4239,0,0,0,1
+588,Provoked,Diving,N,12/6/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+590,Unprovoked,Body surfing,N,6/30/13,2013,Australia,11,Last Quarter,22728254,0,0,1,0
+591,Unprovoked,Fishing,N,6/27/13,2013,Taiwan,8,Last Quarter,23316000,0,0,1,0
+593,Unprovoked,Surfing,N,5/16/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+594,Unprovoked,,N,4/28/09,2009,United States,-5,New Moon,304093966,0,0,0,1
+595,Unprovoked,Surfing,N,4/21/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+597,Unprovoked,Surfing,N,4/19/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+598,Unprovoked,Surfing,N,6/15/13,2013,South Africa,2,First Quarter,52506515.08,1,0,0,0
+599,Unprovoked,Swimming,N,7/22/09,2009,United States,-5,New Moon,304093966,0,0,0,1
+600,Unprovoked,Surfing,N,4/17/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+601,Unprovoked,Wading,N,4/3/09,2009,United States,-5,First Quarter,304093966,1,0,0,0
+602,Unprovoked,Surfing,N,5/27/13,2013,Australia,11,Full Moon,22728254,0,1,0,0
+603,Unprovoked,Surfing,N,3/18/09,2009,United States,-5,Last Quarter,304093966,0,0,1,0
+604,Unprovoked,Surfing,N,9/28/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+605,Unprovoked,,Y,5/23/13,2013,Brazil,-3,Full Moon,200560983,0,1,0,0
+606,Provoked,Fishing,N,5/14/13,2013,Israel,3,New Moon,7910500,0,0,0,1
+607,Unprovoked,Surfing,N,9/28/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+608,Unprovoked,Body boarding,Y,5/8/13,2013,Reunion,4,New Moon,840121,0,0,0,1
+609,Unprovoked,Swimming,N,9/14/08,2008,United States,-5,Full Moon,301231207,0,1,0,0
+610,Provoked,Fishing,N,4/28/13,2013,Australia,11,Full Moon,22728254,0,1,0,0
+611,Unprovoked,Surfing,N,7/22/15,2015,Reunion,4,First Quarter,852204,1,0,0,0
+612,Unprovoked,Fishing,N,4/21/13,2013,Australia,11,First Quarter,22728254,1,0,0,0
+613,Unprovoked,Surfing,N,9/6/08,2008,United States,-5,First Quarter,301231207,1,0,0,0
+614,Unprovoked,Free diving,N,4/14/13,2013,South Africa,2,New Moon,52506515.08,0,0,0,1
+615,Unprovoked,Surfing,N,9/6/08,2008,United States,-5,First Quarter,301231207,1,0,0,0
+616,Unprovoked,,Y,4/13/13,2013,Guam,10,New Moon,159973,0,0,0,1
+617,Unprovoked,Kite boarding,N,4/10/13,2013,French Polynesia,-10,New Moon,271703,0,0,0,1
+618,Unprovoked,Surfing,N,9/1/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+620,Unprovoked,Surfing,N,8/28/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+622,Unprovoked,Free diving,N,3/29/13,2013,Seychelles,4,Full Moon,88303,0,1,0,0
+623,Unprovoked,Snorkeling,N,3/21/13,2013,Belize,-6,First Quarter,336701,1,0,0,0
+624,Unprovoked,Fly fishing,N,3/21/13,2013,Bahamas,-5,First Quarter,372039,1,0,0,0
+625,Provoked,Fishing - 'tag & release',N,3/16/13,2013,South Africa,2,First Quarter,52506515.08,1,0,0,0
+626,Unprovoked,Surfing,N,3/16/13,2013,South Africa,2,First Quarter,52506515.08,1,0,0,0
+627,Unprovoked,Spearfishing,Y,3/12/13,2013,Jamaica,-5,New Moon,2840992,0,0,0,1
+628,Unprovoked,Spearfishing,N,3/10/13,2013,Australia,8,New Moon,22728254,0,0,0,1
+629,Unprovoked,Swimming to shore with floatioon devices after boat engine conked out,N,3/10/13,2013,Philippines,8,New Moon,96866642,0,0,0,1
+630,Unprovoked,Swimming,N,3/3/13,2013,South Africa,2,Last Quarter,52506515.08,0,0,1,0
+631,Unprovoked,Swimming,Y,2/27/13,2013,New Zealand,13,Full Moon,4408100,0,1,0,0
+632,Unprovoked,Surfing,N,8/27/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+633,Unprovoked,"Swimming, towing surfboard",N,8/24/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+634,Unprovoked,Playing in the surf,N,12/30/08,2011,United States,-5,New Moon,309348193,0,0,0,1
+635,Unprovoked,Scuba diving,N,2/9/13,2013,French Polynesia,-10,New Moon,271703,0,0,0,1
+636,Unprovoked,,N,2/1/13,2013,Jamaica,-5,Last Quarter,2840992,0,0,1,0
+637,Boat,Fishing,N,1/26/13,2013,Australia,11,Full Moon,22728254,0,1,0,0
+638,Unprovoked,Surfing,N,1/25/13,2013,Australia,10,Full Moon,22728254,0,1,0,0
+640,Unprovoked,Swimming,N,8/20/08,2008,United States,-5,Full Moon,301231207,0,1,0,0
+641,Unprovoked,Spearfishing,N,1/13/13,2013,New Zealand,13,New Moon,4408100,0,0,0,1
+642,Unprovoked,Spearfishing / Free diving,N,1/5/13,2013,Australia,8,Last Quarter,22728254,0,0,1,0
+643,Unprovoked,Wading,N,8/12/08,2008,United States,-5,First Quarter,301231207,1,0,0,0
+644,Unprovoked,Surfing,N,7/25/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+645,Unprovoked,Surfing,N,12/28/12,2012,Australia,11,Full Moon,22340024,0,1,0,0
+646,Unprovoked,Paddle boarding,N,12/25/12,2012,Australia,11,Full Moon,22340024,0,1,0,0
+647,Unprovoked,Swimming,Y,12/19/12,2012,South Africa,2,First Quarter,51729345.36,1,0,0,0
+648,Unprovoked,Surfing,N,12/5/12,2012,Australia,8,Last Quarter,22340024,0,0,1,0
+649,Provoked,Surfing,N,7/23/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+650,Unprovoked,Spearfishing,N,,2012,Australia,11,New Moon,22340024,0,0,0,1
+651,Unprovoked,Scuba diving,N,11/30/12,2012,New Zealand,13,Full Moon,4384000,0,1,0,0
+652,Unprovoked,Wading,N,7/19/08,2008,United States,-5,Full Moon,301231207,0,1,0,0
+654,Unprovoked,Swimming,Y,11/19/12,2012,Mexico,-7,First Quarter,119090017,1,0,0,0
+655,Unprovoked,Surfing,N,6/26/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+656,Unprovoked,Wading,N,6/20/08,2008,United States,-5,Full Moon,301231207,0,1,0,0
+657,Unprovoked,Body surfing,N,6/7/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+658,Unprovoked,Wading,N,5/7/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+660,Unprovoked,Surfing,N,4/28/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+662,Unprovoked,Surfing,N,4/27/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+663,Provoked,Surfing,N,4/26/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+664,Unprovoked,Wading,N,7/24/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+665,Unprovoked,Bathing,N,10/7/12,2012,Nigeria,1,Last Quarter,162877076,0,0,1,0
+666,Unprovoked,Wading,N,7/24/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+667,Unprovoked,Bodyboarding,N,9/25/12,2012,Australia,8,First Quarter,22340024,1,0,0,0
+668,Unprovoked,Surfing,N,4/20/08,2008,United States,-5,Full Moon,301231207,0,1,0,0
+669,Unprovoked,Surfing,N,4/15/08,2008,United States,-5,First Quarter,301231207,1,0,0,0
+671,Unprovoked,Swimming,N,9/9/12,2012,Tonga,13,Last Quarter,104577,0,0,1,0
+672,Unprovoked,Surfing,N,7/11/08,2008,United States,-5,First Quarter,301231207,1,0,0,0
+673,Unprovoked,Swimming,N,7/9/08,2008,United States,-5,First Quarter,301231207,1,0,0,0
+674,Unprovoked,,N,7/5/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+675,Unprovoked,Wading,N,3/25/08,2008,United States,-5,Full Moon,301231207,0,1,0,0
+676,Unprovoked,Swimming,N,6/26/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+677,Unprovoked,Surfing,N,4/8/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+678,Unprovoked,Walking out of the water after surfing,N,4/3/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+679,Unprovoked,Body surfing,N,6/1/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+680,Unprovoked,Surfing,N,5/26/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+681,Provoked,Shark fishing,N,8/28/12,2012,United Kingdom,0,First Quarter,63258918,1,0,0,0
+682,Unprovoked,Surfing,N,8/26/12,2012,Australia,8,First Quarter,22340024,1,0,0,0
+683,Unprovoked,Swimming,Y,8/15/12,2012,Brazil,-3,New Moon,198686688,0,0,0,1
+684,Unprovoked,Surfing,N,3/28/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+685,Boating,Fishing,N,8/9/12,2012,Australia,8,Last Quarter,22340024,0,0,1,0
+686,Unprovoked,Boogie Boarding,N,3/28/08,2008,United States,-5,Last Quarter,301231207,0,0,1,0
+687,Unprovoked,Swimming,Y,2/14/15,2015,Reunion,4,Last Quarter,852204,0,0,1,0
+688,Unprovoked,Spearfishing,N,7/31/12,2012,French Polynesia,-10,Full Moon,269843,0,1,0,0
+689,Unprovoked,Walking out of the water after surfing,N,3/23/08,2008,United States,-5,Full Moon,301231207,0,1,0,0
+690,Unprovoked,Surfing,N,7/30/12,2012,Australia,9,Full Moon,22340024,0,1,0,0
+691,Unprovoked,Wading,N,3/21/08,2008,United States,-5,Full Moon,301231207,0,1,0,0
+692,Unprovoked,Jet skiing,N,3/15/08,2008,United States,-5,First Quarter,301231207,1,0,0,0
+693,Unprovoked,Surfing,N,2/15/08,2008,United States,-5,First Quarter,301231207,1,0,0,0
+694,Unprovoked,Surfing,N,7/22/14,2014,Reunion,4,Last Quarter,846227,0,0,1,0
+697,Unprovoked,Surfing,Y,7/8/12,2012,Australia,8,Last Quarter,22340024,0,0,1,0
+698,Unprovoked,Surfing,N,1/10/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+699,Unprovoked,Spearfishing,N,7/7/12,2012,Bahamas,-5,Full Moon,366568,0,1,0,0
+701,Unprovoked,Surfing,N,11/6/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+702,Unprovoked,Surfing,N,6/28/12,2012,South Africa,2,First Quarter,51729345.36,1,0,0,0
+704,Unprovoked,Surfing,N,11/4/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+705,Unprovoked,Surfing,N,10/7/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+707,Unprovoked,Surfing,N,6/22/12,2012,Australia,11,New Moon,22340024,0,0,0,1
+708,Unprovoked,Surfing,N,9/22/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+709,Unprovoked,Surf skiing ,N,6/19/12,2012,Australia,8,New Moon,22340024,0,0,0,1
+710,Unprovoked,Surfing,N,9/22/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+711,Unprovoked,Wading?,N,9/17/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+712,Unprovoked,Surfing,N,9/16/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+713,Unprovoked,Snorkeling,N,9/16/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+714,Unprovoked,Wading,N,9/13/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+715,Unprovoked,Wading,N,9/8/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+716,Unprovoked,Jumping,N,9/4/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+717,Unprovoked,Surfing,N,6/10/12,2012,Australia,11,Last Quarter,22340024,0,0,1,0
+718,Provoked,Attempting to rescue an injured & beached shark,2017,6/3/12,2012,Italy,1,Full Moon,59379449,0,1,0,0
+719,Unprovoked,Surf skiing ,N,6/2/12,2012,Australia,11,Full Moon,22340024,0,1,0,0
+720,Unprovoked,Swimming,N,9/3/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+721,Unprovoked,Surfing,N,8/28/07,2007,United States,-5,Full Moon,298379912,0,1,0,0
+722,Unprovoked,Surfing,N,8/26/07,2007,United States,-5,Full Moon,298379912,0,1,0,0
+723,Unprovoked,Body boarding,N,10/26/13,2013,Reunion,4,Last Quarter,840121,0,0,1,0
+724,Unprovoked,Swimming,N,8/20/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+725,Unprovoked,Surfing,N,8/19/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+726,Unprovoked,Spearfishing,N,5/12/12,2012,Fiji,13,Last Quarter,867086,0,0,1,0
+727,Unprovoked,Floating near boat & observing bioluminesce,N,8/19/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+728,Unprovoked,Swimming,N,8/15/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+729,Unprovoked,Walking out of the water after surfing,N,8/12/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+730,Unprovoked,Standing,N,9/5/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+731,Unprovoked,Body boarding,Y,4/11/12,2012,South Africa,2,Last Quarter,51729345.36,0,0,1,0
+732,Boating,Kayaking,N,4/3/12,2012,Australia,9,First Quarter,22340024,1,0,0,0
+733,Unprovoked,Surfing,N,7/10/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+734,Unprovoked,Scuba diving,Y,3/31/12,2012,Australia,8,First Quarter,22340024,1,0,0,0
+735,Provoked,Removing hook from shark,N,,2007,United States,-5,New Moon,298379912,0,0,0,1
+736,Boating,Crayfishing,N,3/22/12,2012,Australia,8,New Moon,22340024,0,0,0,1
+737,Unprovoked,Surfing,N,3/20/12,2012,Australia,10,New Moon,22340024,0,0,0,1
+738,Unprovoked,Surfing,N,6/30/07,2007,United States,-5,Full Moon,298379912,0,1,0,0
+740,Provoked,Diving,N,8/25/07,2007,United States,-5,Full Moon,298379912,0,1,0,0
+742,Provoked,Fishing,N,8/22/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+743,Unprovoked,Surfing,N,3/6/12,2012,New Zealand,13,Full Moon,4384000,0,1,0,0
+744,Provoked,"Diving, feeding sharks",N,3/6/12,2012,Australia,11,Full Moon,22340024,0,1,0,0
+745,Unprovoked,Surfing,N,8/4/12,2012,Reunion,4,Full Moon,833768,0,1,0,0
+746,Unprovoked,Swimming,N,6/17/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+748,Provoked,Fishing (illegally),N,3/1/12,2012,Chile,-3,First Quarter,17153357,1,0,0,0
+749,Unprovoked,Surfing,N,5/12/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+750,Unprovoked,Fishing,N,2/25/12,2012,Australia,11,New Moon,22340024,0,0,0,1
+751,Boat,Fishing,N,2/20/12,2012,South Africa,2,New Moon,51729345.36,0,0,0,1
+752,Unprovoked,Surfing,N,2/6/12,2012,Australia,10,Full Moon,22340024,0,1,0,0
+753,Unprovoked,Playing,N,8/19/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+754,Unprovoked,Snorkeling,N,1/19/12,2012,Australia,8,Last Quarter,22340024,0,0,1,0
+755,Unprovoked,"Diving, photographing sharks",N,1/22/12,2012,Bahamas,-5,New Moon,366568,0,0,0,1
+756,Provoked,Fishing,N,1/18/12,2012,Taiwan,8,Last Quarter,23225000,0,0,1,0
+757,Unprovoked,Surfing,N,1/18/12,2012,Australia,11,Last Quarter,22340024,0,0,1,0
+758,Unprovoked,Swimming,Y,1/15/12,2012,South Africa,2,Last Quarter,51729345.36,0,0,1,0
+759,Unprovoked,Body boarding,N,4/26/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+760,Unprovoked,Surfing,N,1/3/12,2012,Australia,11,First Quarter,22340024,1,0,0,0
+761,Unprovoked,Spearfishing,N,1/2/12,2012,Australia,11,First Quarter,22340024,1,0,0,0
+762,Unprovoked,Surfing,N,4/22/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+764,Unprovoked,Surfing,N,12/25/11,2011,Ecuador,-5,New Moon,14934690,0,0,0,1
+765,Boat,Fishing,N,4/20/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+766,Unprovoked,Swimming,N,8/11/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+767,Boating,Kayak Fishing,N,12/21/11,2011,South Africa,2,Last Quarter,50979432.36,0,0,1,0
+768,Unprovoked,Surfing,N,12/11/11,2011,Australia,11,Full Moon,22031750,0,1,0,0
+770,Unprovoked,Surfing,N,12/7/11,2011,Australia,11,Full Moon,22031750,0,1,0,0
+771,Unprovoked,Boogie Boarding,N,8/9/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+773,Unprovoked,Surfing,N,12/2/11,2011,Australia,11,First Quarter,22031750,1,0,0,0
+774,Unprovoked,Surfing,N,11/29/11,2011,Indonesia,8,First Quarter,242524123,1,0,0,0
+775,Unprovoked,Swimming,N,11/28/11,2011,Australia,10,New Moon,22031750,0,0,0,1
+776,Unprovoked,Swimming,N,7/19/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+777,Unprovoked,Scuba diving,N,11/20/11,2011,Papua New Guinea,10,Last Quarter,7108239,0,0,1,0
+778,Unprovoked,Surfing,N,11/12/11,2011,Brazil,-3,Full Moon,196796269,0,1,0,0
+779,Unprovoked,Free diving / spearfishing,N,11/11/11,2011,Reunion,4,Full Moon,827104,0,1,0,0
+780,Unprovoked,Wading,N,7/17/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+781,Unprovoked,Surfing,N,10/28/11,2011,United Kingdom,0,New Moon,62766365,0,0,0,1
+782,Provoked,Diving,N,10/28/11,2011,South Africa,2,New Moon,50979432.36,0,0,0,1
+783,Unprovoked,Diving,Y,10/22/11,2011,Australia,8,Last Quarter,22031750,0,0,1,0
+784,Unprovoked,Playing on a sandbar,N,4/9/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+785,Unprovoked,Diving,N,10/19/11,2011,Australia,11,Last Quarter,22031750,0,0,1,0
+786,Unprovoked,Surfing,N,4/1/07,2007,United States,-5,Full Moon,298379912,0,1,0,0
+787,Unprovoked,,N,3/31/07,2007,United States,-5,Full Moon,298379912,0,1,0,0
+788,Unprovoked,Swimming,Y,10/9/11,2011,Australia,8,Full Moon,22031750,0,1,0,0
+789,Unprovoked,Surfing,Y,7/21/12,2012,Reunion,4,New Moon,833768,0,0,0,1
+790,Unprovoked,Surfing,N,3/22/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+791,Boat,Shrimping,N,1/25/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+793,Provoked,Fishing,N,9/28/11,2011,Dominican Republic,-4,New Moon,9897985,0,0,0,1
+794,Unprovoked,Swimming,N,9/28/11,2011,South Africa,2,New Moon,50979432.36,0,0,0,1
+795,Unprovoked,Wading,N,6/5/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+796,Provoked,Reviving a sedated shark,N,5/26/07,2007,United States,-5,First Quarter,298379912,1,0,0,0
+797,Unprovoked,Surfing,N,6/19/17,2017,United States,-5,Last Quarter,323127513,0,0,1,0
+799,Unprovoked,Swimming,Y,9/17/11,2011,Kenya,3,Last Quarter,41350152,0,0,1,0
+800,Unprovoked,Wading,N,9/11/16,2016,United States,-5,First Quarter,320896618,1,0,0,0
+802,Unprovoked,Kite Surfing,N,9/11/11,2011,Papua New Guinea,10,Full Moon,7108239,0,1,0,0
+803,Unprovoked,Standing,N,9/2/13,2013,United States,-5,New Moon,313998379,0,0,0,1
+804,Unprovoked,Body boarding,Y,9/4/11,2011,Australia,8,First Quarter,22031750,1,0,0,0
+805,Unprovoked,Swimming,N,6/26/12,2012,United States,-5,First Quarter,311663358,1,0,0,0
+806,Unprovoked,Surfing,N,3/24/12,2012,United States,-5,New Moon,311663358,0,0,0,1
+808,Unprovoked,Surfing,N,3/14/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+809,Unprovoked,"Standing, collecting sea stars",N,8/26/11,2011,Russia,10,New Moon,142849449,0,0,0,1
+810,Unprovoked,Surfing,N,3/14/12,2012,United States,-5,Last Quarter,311663358,0,0,1,0
+811,Unprovoked,Surfing,N,11/16/09,2009,United States,-5,New Moon,304093966,0,0,0,1
+812,Unprovoked,Surfing,Y,8/23/11,2011,South Africa,2,Last Quarter,50979432.36,0,0,1,0
+813,Unprovoked,Swimming,N,8/18/11,2011,Russia,3,Last Quarter,142849449,0,0,1,0
+816,Unprovoked,Swimming,N,8/17/11,2011,Russia,3,Full Moon,142849449,0,1,0,0
+817,Unprovoked,Surfing,N,8/16/11,2011,French Polynesia,-10,Full Moon,267820,0,1,0,0
+818,Unprovoked,Floating ,N,8/16/11,2011,Puerto Rico,-4,Full Moon,3721525,0,1,0,0
+819,Unprovoked,Swimming or Snorkeling,Y,8/16/11,2011,Seychelles,4,Full Moon,89770,0,1,0,0
+820,Unprovoked,Swimming,N,6/21/17,2017,United States,-5,New Moon,323127513,0,0,0,1
+821,Unprovoked,Swimming,N,5/7/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+822,Unprovoked,Diving,Y,8/1/11,2011,Seychelles,4,New Moon,89770,0,0,0,1
+824,Sea Disaster,Sea disaster,N,7/30/11,2011,Philippines,8,New Moon,93726624,0,0,0,1
+826,Unprovoked,Surfing,N,7/22/11,2011,South Africa,2,Last Quarter,50979432.36,0,0,1,0
+828,Boating,Kayaking or Wave skiing,N,7/15/11,2011,Reunion,4,Full Moon,827104,0,1,0,0
+829,Unprovoked,Spearfishing,N,6/4/17,2017,United States,-5,First Quarter,323127513,1,0,0,0
+830,Unprovoked,Scuba diving,N,7/13/11,2011,Bahamas,-5,Full Moon,360832,0,1,0,0
+831,Unprovoked,Boogie boarding,N,8/25/13,2013,United States,-5,Last Quarter,313998379,0,0,1,0
+832,Unprovoked,Swimming,N,6/20/12,2012,United States,-5,New Moon,311663358,0,0,0,1
+833,Unprovoked,Surfing,N,7/6/11,2011,Reunion,4,First Quarter,827104,1,0,0,0
+834,Unprovoked,Kayaking,N,7/5/11,2011,Colombia,-5,First Quarter,45918097,1,0,0,0
+835,Unprovoked,Snorkeling,N,6/30/11,2011,Turks & Caicos,-4,New Moon,30994,0,0,0,1
+836,Unprovoked,Surfing,N,6/29/11,2011,Brazil,-3,New Moon,196796269,0,0,0,1
+837,Unprovoked,Scuba diving,N,6/28/11,2011,South Africa,2,New Moon,50979432.36,0,0,0,1
+838,Unprovoked,Kite Surfing,N,3/4/12,2012,United States,-5,First Quarter,311663358,1,0,0,0
+839,Unprovoked,Wading,N,11/24/09,2009,United States,-5,First Quarter,304093966,1,0,0,0
+840,Unprovoked,Spearfishing,N,6/21/11,2011,Turks & Caicos,-4,Last Quarter,30994,0,0,1,0
+841,Unprovoked,Surfing,Y,6/19/11,2011,Costa Rica,-6,Full Moon,4545280,0,1,0,0
+843,Boating,Fishing,N,6/15/11,2011,United Kingdom,0,Full Moon,62766365,0,1,0,0
+844,Unprovoked,Boogie Boarding,N,7/5/09,2009,United States,-5,Full Moon,304093966,0,1,0,0
+845,Unprovoked,Spearfishing,N,6/12/11,2011,Colombia,-5,First Quarter,45918097,1,0,0,0
+846,Unprovoked,Surfing,N,,2008,United States,-5,New Moon,301231207,0,0,0,1
+847,Unprovoked,Surf-skiing,N,2/6/08,2008,United States,-5,New Moon,301231207,0,0,0,1
+848,Unprovoked,Snorkeling,N,6/6/11,2011,Malaysia,8,First Quarter,28112289,1,0,0,0
+849,Provoked,Fishing for snapper,N,,2008,United States,-5,New Moon,301231207,0,0,0,1
+850,Unprovoked,Surfing,N,5/30/11,2011,South Africa,2,New Moon,50979432.36,0,0,0,1
+851,Unprovoked,Jumped into the water,N,8/9/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+852,Unprovoked,Surfing,N,8/7/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+853,Unprovoked,Spearfishing,Y,5/22/11,2011,South Africa,2,Last Quarter,50979432.36,0,0,1,0
+854,Provoked,Shark fishing,N,3/20/07,2007,United States,-5,New Moon,298379912,0,0,0,1
+855,Unprovoked,Kite Boarding,Y,5/13/11,2011,New Caledonia,11,First Quarter,250000,1,0,0,0
+856,Unprovoked,Surfing,N,3/12/07,2007,United States,-5,Last Quarter,298379912,0,0,1,0
+857,Unprovoked,Swimming,N,9/2/17,2017,United States,-6,First Quarter,323127513,1,0,0,0
+859,Unprovoked,Spearfishing,N,5/7/11,2011,South Africa,2,New Moon,50979432.36,0,0,0,1
+860,Boating,Fishing in Alabama Deep Fishing Rodeo,N,7/17/16,2016,United States,-6,Full Moon,320896618,0,1,0,0
+861,Unprovoked,Washing sand off a speared fish,N,4/26/11,2011,Australia,8,Last Quarter,22031750,0,0,1,0
+862,Unprovoked,Floating in tube,N,6/14/16,2016,United States,-6,First Quarter,320896618,1,0,0,0
+863,Unprovoked,Surfing,N,4/22/11,2011,New Zealand,13,Last Quarter,4350700,0,0,1,0
+864,Unprovoked,Surfing,N,4/16/11,2011,Indonesia,8,Full Moon,242524123,0,1,0,0
+865,Unprovoked,Diving,N,4/12/11,2011,Fiji,13,First Quarter,859950,1,0,0,0
+866,Unprovoked,Spearfishing,N,1/24/16,2016,United States,-6,Full Moon,320896618,0,1,0,0
+867,Unprovoked,Swimming,N,3/29/11,2011,Mexico,-5,Last Quarter,117318941,0,0,1,0
+868,Unprovoked,Surfing,N,3/24/11,2011,Australia,11,Last Quarter,22031750,0,0,1,0
+869,Unprovoked,Body boarding,N,3/5/12,2012,Reunion,4,Full Moon,833768,0,1,0,0
+870,Unprovoked,Diving / fishing,N,3/21/11,2011,Fiji,13,Full Moon,859950,0,1,0,0
+871,Unprovoked,Wakeboarding,N,3/21/11,2011,Australia,11,Full Moon,22031750,0,1,0,0
+872,Unprovoked,Surfing,N,3/16/11,2011,Australia,11,First Quarter,22031750,1,0,0,0
+873,Provoked,Fishing,N,3/10/11,2011,Australia,10,First Quarter,22031750,1,0,0,0
+874,Unprovoked,Spearfishing,N,3/10/11,2011,New Caledonia,11,First Quarter,250000,1,0,0,0
+875,Unprovoked,Surfing,N,2/28/11,2011,Reunion,4,Last Quarter,827104,0,0,1,0
+876,Unprovoked,Diving for abalone,Y,2/23/11,2011,Australia,10,Last Quarter,22031750,0,0,1,0
+877,Provoked,Fishing,N,2/19/11,2011,Australia,10,Full Moon,22031750,0,1,0,0
+878,Unprovoked,Snorkeling,N,2/17/11,2011,Australia,8,Full Moon,22031750,0,1,0,0
+879,Provoked,Shark fishing on the Ricardo Astorga,N,2/13/11,2011,Mexico,-7,First Quarter,117318941,1,0,0,0
+880,Unprovoked,Surf fishing,N,2/12/11,2011,South Africa,2,First Quarter,50979432.36,1,0,0,0
+881,Unprovoked,Swimming,N,2/4/11,2011,Mexico,-5,New Moon,117318941,0,0,0,1
+882,Provoked,Shark fishing on the Don AgustÃ_n-VI. ,N,2/2/11,2011,Mexico,-7,New Moon,117318941,0,0,0,1
+883,Unprovoked,Wading,N,10/5/15,2015,United States,-6,Last Quarter,318563456,0,0,1,0
+885,Unprovoked,Surfing,Y,1/26/11,2011,South Africa,2,Last Quarter,50979432.36,0,0,1,0
+886,Unprovoked,Attempting to fix motor,N,1/20/11,2011,Mexico,-5,Full Moon,117318941,0,1,0,0
+887,Boat,Fishing,N,1/15/11,2011,Australia,8,First Quarter,22031750,1,0,0,0
+890,Unprovoked,Swimming,N,8/8/14,2014,United States,-6,Full Moon,316204908,0,1,0,0
+891,Unprovoked,Surfing,N,12/17/10,2010,Fiji,13,First Quarter,851967,1,0,0,0
+892,Unprovoked,Kneeling in the water,N,6/7/14,2014,United States,-6,First Quarter,316204908,1,0,0,0
+893,Unprovoked,Snorkeling,Y,12/5/10,2010,Egypt,2,New Moon,82465022,0,0,0,1
+894,Unprovoked,Surfing,N,12/3/10,2010,Indonesia,8,New Moon,239340478,0,0,0,1
+895,Unprovoked,Snorkeling,N,12/1/10,2010,Egypt,2,Last Quarter,82465022,0,0,1,0
+896,Unprovoked,Snorkeling,N,12/1/10,2010,Egypt,2,Last Quarter,82465022,0,0,1,0
+897,Unprovoked,Snorkeling,N,11/30/10,2010,Egypt,2,Last Quarter,82465022,0,0,1,0
+898,Unprovoked,Snorkeling,N,11/30/10,2010,Egypt,2,Last Quarter,82465022,0,0,1,0
+899,Unprovoked,Fishing,N,11/27/10,2010,Samoa,14,Last Quarter,184826,0,0,1,0
+901,Unprovoked,Walking in surf,N,7/17/13,2013,United States,-6,First Quarter,313998379,1,0,0,0
+902,Unprovoked,Diving,Y,11/15/10,2010,Dominican Republic,-4,First Quarter,9767758,1,0,0,0
+903,Unprovoked,Surfing,N,11/14/10,2010,Indonesia,8,First Quarter,239340478,1,0,0,0
+904,Boat,Fishing,N,11/12/10,2010,Australia,8,First Quarter,21691700,1,0,0,0
+905,Unprovoked,Snorkeling,N,10/30/10,2010,Australia,8,Last Quarter,21691700,0,0,1,0
+906,Unprovoked,Spearfishing,N,10/28/10,2010,Australia,8,Last Quarter,21691700,0,0,1,0
+907,Unprovoked,Swimming,N,6/16/13,2013,United States,-6,First Quarter,313998379,1,0,0,0
+908,Provoked,Fishing,N,10/25/10,2010,Azores,-1,Full Moon,245374,0,1,0,0
+909,Unprovoked,Wading or swimming,N,8/11/12,2012,United States,-6,Last Quarter,311663358,0,0,1,0
+910,Unprovoked,Kite Surfing,N,10/23/10,2010,Australia,8,Full Moon,21691700,0,1,0,0
+911,Unprovoked,,N,10/1/11,2011,United States,-6,First Quarter,309348193,1,0,0,0
+912,Unprovoked,Snorkeling,N,10/20/10,2010,Egypt,2,Full Moon,82465022,0,1,0,0
+913,Unprovoked,Surfing,N,10/9/10,2010,Australia,11,New Moon,21691700,0,0,0,1
+914,Unprovoked,Snorkeling,N,10/2/10,2010,Bahamas,-5,Last Quarter,354856,0,0,1,0
+915,Unprovoked,Surfing,N,10/2/10,2010,Bahamas,-5,Last Quarter,354856,0,0,1,0
+916,Unprovoked,Surfing,N,10/1/10,2010,South Africa,2,Last Quarter,50255813.11,0,0,1,0
+917,Unprovoked,Surf fishing,N,7/13/11,2011,United States,-6,Full Moon,309348193,0,1,0,0
+918,Unprovoked,Swimming,N,7/7/11,2011,United States,-6,First Quarter,309348193,1,0,0,0
+919,Unprovoked,Swimming,Y,9/21/10,2010,South Africa,2,Full Moon,50255813.11,0,1,0,0
+920,Unprovoked,Surfing,N,9/13/10,2010,Australia,11,First Quarter,21691700,1,0,0,0
+921,Unprovoked,Wade Fishing,N,7/7/11,2011,United States,-6,First Quarter,309348193,1,0,0,0
+922,Unprovoked,Swimming /  Whale Watching,N,9/6/10,2010,Tonga,13,New Moon,103604,0,0,0,1
+923,Unprovoked,Standing or boogie boardin,N,6/1/11,2011,United States,-6,New Moon,309348193,0,0,0,1
+924,Provoked,"Standing, holding shark pup",N,4/8/11,2011,United States,-6,First Quarter,309348193,1,0,0,0
+925,Unprovoked,Fishing,N,7/16/10,2010,United States,-6,First Quarter,306771529,1,0,0,0
+926,Unprovoked,,N,9/2/10,2010,Solomon Islands,11,Last Quarter,516079,0,0,1,0
+928,Unprovoked,Surfing,N,6/27/10,2010,United States,-6,Full Moon,306771529,0,1,0,0
+929,Unprovoked,Surfing,Y,8/17/10,2010,Australia,8,First Quarter,21691700,1,0,0,0
+930,Unprovoked,Wade Fishing,N,8/1/09,2009,United States,-6,First Quarter,304093966,1,0,0,0
+931,Provoked,Fishing,N,8/10/10,2010,Australia,10,New Moon,21691700,0,0,0,1
+932,Unprovoked,Swimming,N,8/10/10,2010,South Korea,9,New Moon,49307835,0,0,0,1
+933,Unprovoked,Surfing,N,8/8/10,2010,Australia,11,New Moon,21691700,0,0,0,1
+934,Unprovoked,Wading,N,7/24/09,2009,United States,-6,New Moon,304093966,0,0,0,1
+935,Unprovoked,Windsurfing,N,8/7/10,2010,Malta,1,New Moon,412477,0,0,0,1
+936,Unprovoked,Swimming,N,4/2/17,2017,United States,-6,First Quarter,323127513,1,0,0,0
+937,Boating,Fishing,N,1/19/15,2015,United States,-6,New Moon,318563456,0,0,0,1
+938,Unprovoked,Fishing ,N,9/6/14,2014,United States,-6,Full Moon,316204908,0,1,0,0
+939,Unprovoked,Swimming,N,7/14/14,2014,United States,-6,Full Moon,316204908,0,1,0,0
+940,Unprovoked,Wading,N,9/29/13,2013,United States,-6,Last Quarter,313998379,0,0,1,0
+941,Unprovoked,Standing,N,9/21/13,2013,United States,-6,Full Moon,313998379,0,1,0,0
+942,Unprovoked,Swimming,N,9/12/13,2013,United States,-6,First Quarter,313998379,1,0,0,0
+943,Unprovoked,Jet skiing,N,6/24/11,2011,United States,-6,Last Quarter,309348193,0,0,1,0
+944,Provoked,Swimming,N,7/16/10,2010,Spain,0,First Quarter,46362946,1,0,0,0
+945,Unprovoked,Swimming,N,7/22/09,2009,United States,-6,New Moon,304093966,0,0,0,1
+946,Unprovoked,Fishing,N,10/8/08,2008,United States,-6,First Quarter,301231207,1,0,0,0
+947,Unprovoked,Snorkeling,N,7/4/10,2010,South Africa,2,Last Quarter,50255813.11,0,0,1,0
+948,Unprovoked,Standing,N,8/12/14,2014,United States,-6,Full Moon,316204908,0,1,0,0
+949,Unprovoked,Wade Fishing,N,8/28/11,2011,United States,-6,New Moon,309348193,0,0,0,1
+950,Unprovoked,Spearfishing,N,11/24/17,2017,United States,-8,First Quarter,323127513,1,0,0,0
+951,Boating,Kayaking / Fishing,N,8/1/17,2017,United States,-8,First Quarter,323127513,1,0,0,0
+952,Boating,Kayaking,N,7/20/17,2017,United States,-8,Last Quarter,323127513,0,0,1,0
+953,Unprovoked,SUP,N,7/20/17,2017,United States,-8,Last Quarter,323127513,0,0,1,0
+954,Unprovoked,Swimming,N,6/15/10,2010,Vietnam,7,New Moon,86025000,0,0,0,1
+955,Unprovoked,Surfing,N,7/16/17,2017,United States,-8,Last Quarter,323127513,0,0,1,0
+956,Unprovoked,Surfing,N,6/6/10,2010,Australia,8,Last Quarter,21691700,0,0,1,0
+957,Boating,Kayaking,N,7/11/17,2017,United States,-8,Full Moon,323127513,0,1,0,0
+959,Unprovoked,Rescuing,N,5/18/10,2010,Vietnam,7,First Quarter,86025000,1,0,0,0
+960,Unprovoked,Swimming,N,5/18/10,2010,Vietnam,7,First Quarter,86025000,1,0,0,0
+961,Unprovoked,Surfing,N,5/18/10,2010,Australia,11,First Quarter,21691700,1,0,0,0
+962,Unprovoked,Scuba diving,N,5/3/10,2010,Madagascar,3,Last Quarter,20569121,0,0,1,0
+963,Unprovoked,Swimming,N,4/29/17,2017,United States,-8,New Moon,323127513,0,0,0,1
+964,Boating,Kayaking,N,3/18/17,2017,United States,-8,Last Quarter,323127513,0,0,1,0
+965,Unprovoked,Surfing,N,10/10/16,2016,United States,-8,First Quarter,320896618,1,0,0,0
+966,Unprovoked,Surfing,N,4/13/10,2010,South Africa,2,New Moon,50255813.11,0,0,0,1
+967,Unprovoked,Swimming / treading water,N,4/4/10,2010,Egypt,2,Last Quarter,82465022,0,0,1,0
+968,Boating,Canoeing,N,10/5/11,2011,Reunion,4,First Quarter,827104,1,0,0,0
+969,Unprovoked,Swimming,N,2/19/10,2010,New Zealand,13,First Quarter,4302600,1,0,0,0
+970,Unprovoked,Surfing,N,2/16/10,2010,South Africa,2,New Moon,50255813.11,0,0,0,1
+971,Unprovoked,Scuba diving,Y,2/15/10,2010,Fiji,13,New Moon,851967,0,0,0,1
+972,Unprovoked,Snorkeling,N,2/13/10,2010,Australia,10,New Moon,21691700,0,0,0,1
+973,Unprovoked,Surfing,N,2/11/10,2010,Australia,11,New Moon,21691700,0,0,0,1
+974,Provoked,Spearfishing,N,2/6/10,2010,New Zealand,13,Last Quarter,4302600,0,0,1,0
+975,Unprovoked,Body boarding,N,2/6/10,2010,Australia,11,Last Quarter,21691700,0,0,1,0
+976,Unprovoked,Surfing,N,9/17/16,2016,United States,-8,Full Moon,320896618,0,1,0,0
+978,Unprovoked,Spearfishing,N,9/1/16,2016,United States,-8,New Moon,320896618,0,0,0,1
+979,Provoked,Boogie Boarding,N,2/1/10,2010,New Zealand,13,Full Moon,4302600,0,1,0,0
+980,Unprovoked,Surfing,N,1/30/10,2010,Brazil,-3,Full Moon,194895996,0,1,0,0
+981,Unprovoked,Surfing,N,1/27/10,2010,Australia,10,Full Moon,21691700,0,1,0,0
+982,Unprovoked,Surfing,N,1/22/10,2010,United Arab Emirates (Uae),4,First Quarter,7666393,1,0,0,0
+983,Unprovoked,Surfing,N,1/22/10,2010,Australia,11,First Quarter,21691700,1,0,0,0
+984,Unprovoked,Standing,Y,1/12/10,2010,South Africa,2,New Moon,50255813.11,0,0,0,1
+985,Unprovoked,Snorkeling,N,1/9/10,2010,Australia,10,Last Quarter,21691700,0,0,1,0
+986,Unprovoked,,N,1/9/10,2010,Vietnam,7,Last Quarter,86025000,0,0,1,0
+988,Unprovoked,,N,1/9/10,2010,Vietnam,7,Last Quarter,86025000,0,0,1,0
+990,Unprovoked,Bathing,N,1/9/10,2010,Vietnam,7,Last Quarter,86025000,0,0,1,0
+991,Unprovoked,Bathing,N,1/9/10,2010,Vietnam,7,Last Quarter,86025000,0,0,1,0
+992,Unprovoked,Kite surfing,N,7/15/16,2016,United States,-8,First Quarter,320896618,1,0,0,0
+993,Unprovoked,Surfing,N,1/5/10,2010,South Africa,2,Last Quarter,50255813.11,0,0,1,0
+994,Unprovoked,Wading,N,12/29/09,2009,South Africa,2,Full Moon,49557573.3,0,1,0,0
+995,Provoked,Swimming,N,12/26/09,2009,Australia,11,First Quarter,21249200,1,0,0,0
+996,Unprovoked,Swimming,N,12/22/09,2009,Mozambique,2,First Quarter,22846758,1,0,0,0
+997,Boating,Kayaking,N,12/20/09,2009,Australia,10,New Moon,21249200,0,0,0,1
+998,Unprovoked,Spearfishing,N,12/20/09,2009,Australia,10,New Moon,21249200,0,0,0,1
+999,Unprovoked,Paddling on kneeboard,Y,12/18/09,2009,South Africa,2,New Moon,49557573.3,0,0,0,1
+1001,Unprovoked,Swimming to shore from capsized kayak,Y,12/16/09,2009,New Zealand,13,New Moon,4259800,0,0,0,1
+1002,Unprovoked,Surfing,N,12/13/09,2009,Australia,11,New Moon,21249200,0,0,0,1
+1003,Boating,Rowing,N,12/12/09,2009,Australia,11,Last Quarter,21249200,0,0,1,0
+1004,Boating,Fishing for squid,N,7/8/16,2016,United States,-8,New Moon,320896618,0,0,0,1
+1005,Boating,Fishing for sharks,N,7/7/16,2016,United States,-8,New Moon,320896618,0,0,0,1
+1006,Unprovoked,Swimming,N,5/29/16,2016,United States,-8,Last Quarter,320896618,0,0,1,0
+1008,Boating,Kayak Fishing,N,10/13/15,2015,United States,-8,New Moon,318563456,0,0,0,1
+1009,Unprovoked,Stand-Up Paddleboarding,N,9/6/15,2015,United States,-8,Last Quarter,318563456,0,0,1,0
+1010,Provoked,Kayak Fishing,N,9/5/15,2015,United States,-8,Last Quarter,318563456,0,0,1,0
+1011,Unprovoked,Kayaking,N,11/8/09,2009,Australia,9,Last Quarter,21249200,0,0,1,0
+1012,Unprovoked,Surfing,N,8/29/15,2015,United States,-8,Full Moon,318563456,0,1,0,0
+1013,Boating,Kayaking,N,10/30/09,2009,Australia,11,Full Moon,21249200,0,1,0,0
+1014,Unprovoked,Spearfishing,N,10/29/09,2009,Mozambique,2,First Quarter,22846758,1,0,0,0
+1015,Unprovoked,Paddle-boarding,N,10/28/09,2009,Australia,11,First Quarter,21249200,1,0,0,0
+1016,Provoked,Kayak Fishing,N,7/23/15,2015,United States,-8,First Quarter,318563456,1,0,0,0
+1017,Unprovoked,Surfing,N,7/1/15,2015,United States,-8,Full Moon,318563456,0,1,0,0
+1018,Unprovoked,Wading,N,10/18/09,2009,Panama,-5,New Moon,3516268,0,0,0,1
+1019,Provoked,Diving,N,10/17/09,2009,United Kingdom,0,New Moon,61806995,0,0,0,1
+1020,Unprovoked,Diving,N,10/14/09,2009,Australia,9,Last Quarter,21249200,0,0,1,0
+1022,Provoked,Fishing,N,10/2/09,2009,United Kingdom,0,Full Moon,61806995,0,1,0,0
+1023,Unprovoked,,N,6/13/15,2015,United States,-8,Last Quarter,318563456,0,0,1,0
+1024,Unprovoked,,N,9/18/09,2009,Vietnam,7,New Moon,85118700,0,0,0,1
+1025,Provoked,Fishing,N,9/15/09,2009,Somalia,3,Last Quarter,11369276,0,0,1,0
+1026,Provoked,,Y,9/13/09,2009,Brazil,-3,Last Quarter,192979029,0,0,1,0
+1027,Unprovoked,Surfing,N,12/28/14,2014,United States,-8,First Quarter,316204908,1,0,0,0
+1028,Unprovoked,"Swimming, attempting to rescue a girl  believed to be drowning",Y,9/7/09,2009,Brazil,-3,Full Moon,192979029,0,1,0,0
+1030,Provoked,Fishing,N,9/1/09,2009,Solomon Islands,11,Full Moon,504477,0,1,0,0
+1031,Boating,,N,11/17/14,2014,United States,-8,Last Quarter,316204908,0,0,1,0
+1032,Unprovoked,Surfing,Y,8/29/09,2009,South Africa,2,First Quarter,49557573.3,1,0,0,0
+1033,Boating,Canoeing,N,10/19/14,2014,United States,-8,Last Quarter,316204908,0,0,1,0
+1034,Unprovoked,Body boarding,N,8/11/09,2009,South Africa,2,Last Quarter,49557573.3,0,0,1,0
+1035,Boating,Kayaking,N,10/3/14,2014,United States,-8,First Quarter,316204908,1,0,0,0
+1036,Boating,Kayaking ,N,10/3/14,2014,United States,-8,First Quarter,316204908,1,0,0,0
+1037,Unprovoked,Surfing,N,10/2/14,2014,United States,-8,First Quarter,316204908,1,0,0,0
+1038,Unprovoked,Spearfishing,N,7/31/09,2009,Bahamas,-5,First Quarter,348676,1,0,0,0
+1039,Unprovoked,Surfing,N,7/30/09,2009,Australia,11,First Quarter,21249200,1,0,0,0
+1040,Unprovoked,Swimming,N,7/29/09,2009,Vietnam,7,First Quarter,85118700,1,0,0,0
+1041,Unprovoked,Washing his feet,Y,7/24/09,2009,Kenya,3,New Moon,39148416,0,0,0,1
+1044,Provoked,Swimming,N,7/5/14,2014,United States,-8,First Quarter,316204908,1,0,0,0
+1045,Unprovoked,Surfing,N,7/5/14,2014,United States,-8,First Quarter,316204908,1,0,0,0
+1046,Unprovoked,Swimming,N,7/18/09,2009,Vietnam,7,Last Quarter,85118700,0,0,1,0
+1047,Provoked,Spearfishing,N,7/11/09,2009,Bahamas,-5,Full Moon,348676,0,1,0,0
+1048,Unprovoked,Surfing,N,11/12/13,2013,United States,-8,First Quarter,313998379,1,0,0,0
+1049,Unprovoked,Surfing,N,7/7/09,2009,South Africa,2,Full Moon,49557573.3,0,1,0,0
+1050,Unprovoked,Surfing,N,10/5/13,2013,United States,-8,New Moon,313998379,0,0,0,1
+1051,Unprovoked,Swimming,N,8/29/13,2013,United States,-8,Last Quarter,313998379,0,0,1,0
+1052,Unprovoked,Surfing,N,6/27/09,2009,Australia,11,First Quarter,21249200,1,0,0,0
+1054,Unprovoked,Surfing,N,8/14/13,2013,United States,-8,First Quarter,313998379,1,0,0,0
+1055,Provoked,Fishing for sharks,N,6/14/09,2009,Vietnam,7,Last Quarter,85118700,0,0,1,0
+1056,Unprovoked,Scuba diving,N,6/2/09,2009,Egypt,2,First Quarter,80953881,1,0,0,0
+1057,Unprovoked,Scuba diving,N,6/2/09,2009,Egypt,2,First Quarter,80953881,1,0,0,0
+1058,Unprovoked,Snorkeling,Y,6/1/09,2009,Egypt,2,First Quarter,80953881,1,0,0,0
+1059,Provoked,Fishing,N,5/31/09,2009,Taiwan,8,First Quarter,23037000,1,0,0,0
+1060,Boating,Kayaking / Fishing,N,6/25/13,2013,United States,-8,Full Moon,313998379,0,1,0,0
+1061,Unprovoked,Surfing,N,10/27/12,2012,United States,-8,Full Moon,311663358,0,1,0,0
+1062,Unprovoked,Windsurfing,N,10/2/12,2012,United States,-8,Full Moon,311663358,0,1,0,0
+1063,Unprovoked,Surfing,N,7/31/12,2012,United States,-8,Full Moon,311663358,0,1,0,0
+1064,Provoked,Spearfishing,N,5/12/09,2009,Guam,10,Full Moon,159035,0,1,0,0
+1065,Provoked,Spearfishing,N,5/6/09,2009,Bahamas,-5,Full Moon,348676,0,1,0,0
+1066,Boating,Kayaking / Fishing,N,5/9/12,2012,United States,-8,Full Moon,311663358,0,1,0,0
+1067,Unprovoked,Paddle boarding,N,4/19/12,2012,United States,-8,New Moon,311663358,0,0,0,1
+1068,Unprovoked,Surfing,N,1/13/12,2012,United States,-8,Last Quarter,311663358,0,0,1,0
+1069,Unprovoked,Swimming,N,4/20/09,2009,Philippines,8,Last Quarter,90751864,0,0,1,0
+1070,Boating,Kayaking,N,11/22/11,2011,United States,-8,New Moon,309348193,0,0,0,1
+1071,Unprovoked,Surfing,N,10/29/11,2011,United States,-8,New Moon,309348193,0,0,0,1
+1072,Unprovoked,Surfing,N,10/20/11,2011,United States,-8,Last Quarter,309348193,0,0,1,0
+1073,Unprovoked,Surf skiing ,N,4/12/09,2009,Australia,11,Full Moon,21249200,0,1,0,0
+1075,Unprovoked,Surfing,N,10/10/11,2011,United States,-8,Full Moon,309348193,0,1,0,0
+1076,Unprovoked,Surfing,N,9/11/11,2011,United States,-8,Full Moon,309348193,0,1,0,0
+1077,Provoked,Fishing ,N,3/27/09,2009,South Africa,2,New Moon,49557573.3,0,0,0,1
+1078,Unprovoked,Surfing,Y,3/21/09,2009,South Africa,2,Last Quarter,49557573.3,0,0,1,0
+1079,Unprovoked,Surfing,N,3/20/09,2009,Australia,11,Last Quarter,21249200,0,0,1,0
+1080,Unprovoked,Surfing,N,3/19/09,2009,Australia,11,Last Quarter,21249200,0,0,1,0
+1081,Unprovoked,Surfing,N,3/19/09,2009,Australia,11,Last Quarter,21249200,0,0,1,0
+1082,Unprovoked,Surfing,N,6/26/11,2011,United States,-8,Last Quarter,309348193,0,0,1,0
+1083,Unprovoked,Feeding fish,N,3/17/09,2009,Malaysia,8,Last Quarter,27111069,0,0,1,0
+1084,Unprovoked,Spearfishing,N,6/6/11,2011,United States,-8,First Quarter,309348193,1,0,0,0
+1085,Provoked,Wading,N,3/16/09,2009,Australia,8,Last Quarter,21249200,0,0,1,0
+1086,Unprovoked,Surfing,Y,3/6/09,2009,New Caledonia,11,First Quarter,242000,1,0,0,0
+1087,Provoked,Fishing,N,3/2/09,2009,South Africa,2,First Quarter,49557573.3,1,0,0,0
+1088,Boating,Fishing,N,3/1/09,2009,New Zealand,13,First Quarter,4259800,1,0,0,0
+1089,Unprovoked,Surfing,N,3/1/09,2009,Australia,11,First Quarter,21249200,1,0,0,0
+1090,Unprovoked,Fishing,N,2/22/09,2009,Australia,10,New Moon,21249200,0,0,0,1
+1091,Unprovoked,Surfing,N,2/18/09,2009,Australia,11,Last Quarter,21249200,0,0,1,0
+1092,Unprovoked,Surfing,N,2/12/09,2009,Australia,11,Full Moon,21249200,0,1,0,0
+1093,Unprovoked,"Diving, but on the surface when bitten by the shark",N,2/11/09,2009,Australia,11,Full Moon,21249200,0,1,0,0
+1094,Unprovoked,Surfing,N,10/28/10,2010,United States,-8,Last Quarter,306771529,0,0,1,0
+1095,Unprovoked,Surfing,N,2/7/09,2009,Australia,11,Full Moon,21249200,0,1,0,0
+1096,Unprovoked,Surfing,N,2/7/09,2009,Australia,11,Full Moon,21249200,0,1,0,0
+1097,Provoked,Fishing,N,1/27/09,2009,Azores,-1,New Moon,245374,0,0,0,1
+1100,Boat,Fishing,N,1/24/09,2009,New Zealand,13,New Moon,4259800,0,0,0,1
+1101,Unprovoked,Swimming,N,1/24/09,2009,Australia,11,New Moon,21249200,0,0,0,1
+1102,Unprovoked,Swimming,Y,1/24/09,2009,South Africa,2,New Moon,49557573.3,0,0,0,1
+1104,Boat,Fishing,N,1/18/09,2009,Australia,11,Last Quarter,21249200,0,0,1,0
+1105,Unprovoked,Surfing,N,1/16/09,2009,New Zealand,13,Last Quarter,4259800,0,0,1,0
+1106,Unprovoked,,Y,1/13/09,2009,South Africa,2,Full Moon,49557573.3,0,1,0,0
+1107,Unprovoked,Snorkeling,N,1/12/09,2009,Australia,11,Full Moon,21249200,0,1,0,0
+1108,Unprovoked,Surfing,N,1/11/09,2009,Australia,11,Full Moon,21249200,0,1,0,0
+1109,Unprovoked,Surfing,N,1/11/09,2009,Australia,11,Full Moon,21249200,0,1,0,0
+1110,Boat,Fishing,N,1/10/09,2009,New Zealand,13,Full Moon,4259800,0,1,0,0
+1111,Unprovoked,Surfing,N,1/10/09,2009,Ecuador,-6,Full Moon,14447562,0,1,0,0
+1112,Unprovoked,Swimming,N,1/6/09,2009,New Zealand,13,First Quarter,4259800,1,0,0,0
+1113,Unprovoked,Spearfishing,N,,2009,Cuba,-5,New Moon,11309754,0,0,0,1
+1114,Unprovoked,Body boarding,Y,10/22/10,2010,United States,-8,Full Moon,306771529,0,1,0,0
+1116,Boating,Yacht race,N,12/27/08,2008,Australia,11,New Moon,20827600,0,0,0,1
+1117,Unprovoked,Boogie Boarding,N,12/27/08,2008,Australia,11,New Moon,20827600,0,0,0,1
+1118,Boating,Kayaking,N,12/27/08,2008,Australia,11,New Moon,20827600,0,0,0,1
+1119,Unprovoked,Snorkeling,Y,12/20/08,2008,Australia,8,Last Quarter,20827600,0,0,1,0
+1120,Unprovoked,Surfing,N,9/27/10,2010,United States,-8,Full Moon,306771529,0,1,0,0
+1121,Unprovoked,Fishing,N,12/10/08,2008,New Zealand,13,Full Moon,4223800,0,1,0,0
+1122,Provoked,Fishing,N,,2008,South Africa,2,New Moon,48883844.99,0,0,0,1
+1123,Unprovoked,Spearfishing,Y,,2008,Mozambique,2,New Moon,22188387,0,0,0,1
+1124,Unprovoked,Scuba diving,N,11/28/08,2008,Egypt,2,New Moon,79537253,0,0,0,1
+1125,Sea Disaster,Sinking of the cargo ship Mark Jason,N,11/25/08,2008,Philippines,8,New Moon,89293490,0,0,0,1
+1126,Unprovoked,,N,11/24/08,2008,Ecuador,-6,New Moon,14205453,0,0,0,1
+1127,Boating,Fishing,N,11/9/08,2008,Australia,9,First Quarter,20827600,1,0,0,0
+1128,Sea Disaster,Fishing boat swamped in storm,Y,11/9/08,2008,Taiwan,8,First Quarter,22958000,1,0,0,0
+1129,Unprovoked,Fishing,Y,11/6/08,2008,Philippines,8,First Quarter,89293490,1,0,0,0
+1130,Provoked,Scuba diving,N,10/22/08,2008,Australia,11,Last Quarter,20827600,0,0,1,0
+1131,Unprovoked,Spearfishing,N,10/21/08,2008,New Caledonia,11,Last Quarter,238000,0,0,1,0
+1132,Provoked,Fishing,N,10/12/08,2008,Australia,9,Full Moon,20827600,0,1,0,0
+1133,Unprovoked,Surfing,N,10/11/08,2008,Australia,11,First Quarter,20827600,1,0,0,0
+1134,Boating,Kayak Fishing,N,8/14/10,2010,United States,-8,First Quarter,306771529,1,0,0,0
+1135,Unprovoked,Spearfishing,N,10/6/08,2008,Croatia,1,First Quarter,4436000,1,0,0,0
+1136,Unprovoked,Surfing,N,7/2/10,2010,United States,-8,Last Quarter,306771529,0,0,1,0
+1137,Unprovoked,Stand-Up Paddleboarding,N,7/2/10,2010,United States,-8,Last Quarter,306771529,0,0,1,0
+1138,Provoked,Swimming,N,9/15/08,2008,Australia,9,Full Moon,20827600,0,1,0,0
+1140,Unprovoked,Surfing,N,11/5/09,2009,United States,-8,Full Moon,304093966,0,1,0,0
+1141,Unprovoked,Surfing,N,10/24/09,2009,United States,-8,First Quarter,304093966,1,0,0,0
+1142,Unprovoked,Surfing,N,9/7/08,2008,Australia,11,First Quarter,20827600,1,0,0,0
+1143,Unprovoked,Surfing,N,10/9/09,2009,United States,-8,Last Quarter,304093966,0,0,1,0
+1144,Unprovoked,Surfing,N,8/30/09,2009,United States,-8,First Quarter,304093966,1,0,0,0
+1145,Unprovoked,Swimming,N,8/25/09,2009,United States,-8,First Quarter,304093966,1,0,0,0
+1146,Unprovoked,Paddle-surfing,N,7/11/09,2009,United States,-8,Full Moon,304093966,0,1,0,0
+1147,Unprovoked,Surfing,N,8/30/08,2008,Australia,11,New Moon,20827600,0,0,0,1
+1149,Provoked,Fishing,N,8/30/08,2008,United Kingdom,0,New Moon,61322463,0,0,0,1
+1150,Unprovoked,Surfing,N,4/25/09,2009,United States,-8,New Moon,304093966,0,0,0,1
+1151,Unprovoked,Spearfishing,N,4/6/09,2009,United States,-8,First Quarter,304093966,1,0,0,0
+1152,Boating,Kayaking,N,12/14/08,2008,United States,-8,Full Moon,301231207,0,1,0,0
+1153,Unprovoked,Surfing,N,9/8/08,2008,United States,-8,First Quarter,301231207,1,0,0,0
+1154,Boating,Kayaking,N,6/21/08,2008,United States,-8,Full Moon,301231207,0,1,0,0
+1155,Unprovoked,Swimming,Y,4/25/08,2008,United States,-8,Last Quarter,301231207,0,0,1,0
+1156,Unprovoked,Surfing,N,3/7/08,2008,United States,-8,New Moon,301231207,0,0,0,1
+1157,Unprovoked,Surfing,N,10/6/07,2007,United States,-8,Last Quarter,298379912,0,0,1,0
+1158,Unprovoked,Surfing,N,9/28/07,2007,United States,-8,Full Moon,298379912,0,1,0,0
+1159,Unprovoked,Surfing,N,7/30/08,2008,Australia,11,New Moon,20827600,0,0,0,1
+1160,Unprovoked,,N,7/30/08,2008,South Africa,2,New Moon,48883844.99,0,0,0,1
+1161,Unprovoked,Swimming or surfing,N,7/27/08,2008,Panama,-5,Last Quarter,3453807,0,0,1,0
+1162,Unprovoked,Surfing,N,3/27/10,2010,Reunion,4,Full Moon,820104,0,1,0,0
+1163,Unprovoked,Surfing,N,8/28/07,2007,United States,-8,Full Moon,298379912,0,1,0,0
+1164,Unprovoked,Surfing,N,7/29/07,2007,United States,-8,Full Moon,298379912,0,1,0,0
+1165,Unprovoked,Surf paddling,N,7/28/07,2007,United States,-8,Full Moon,298379912,0,1,0,0
+1166,Boating,Kayak Fishing,N,7/22/07,2007,United States,-8,First Quarter,298379912,1,0,0,0
+1167,Unprovoked,Swimming,N,6/30/07,2007,United States,-8,Full Moon,298379912,0,1,0,0
+1168,Boating,Kayak fishing,N,9/24/15,2015,United States,-8,First Quarter,318563456,1,0,0,0
+1169,Unprovoked,Surfing,N,8/29/15,2015,United States,-8,Full Moon,318563456,0,1,0,0
+1170,Unprovoked,Diving,N,7/18/08,2008,Egypt,2,Full Moon,79537253,0,1,0,0
+1171,Boating,Kayak Fishing,N,8/18/15,2015,United States,-8,New Moon,318563456,0,0,0,1
+1173,Unprovoked,Surfing,Y,10/19/12,2012,United States,-8,First Quarter,311663358,1,0,0,0
+1174,Boating,Kayaking,N,7/6/12,2012,United States,-8,Full Moon,311663358,0,1,0,0
+1175,Boating,Rowing an inflatable dinghy,N,,2008,United Kingdom,0,New Moon,61322463,0,0,0,1
+1176,Unprovoked,Surfing,N,12/6/11,2011,United States,-8,First Quarter,309348193,1,0,0,0
+1177,Unprovoked,Spearfishing,N,6/28/08,2008,Bahamas,-5,Last Quarter,342328,0,0,1,0
+1178,Unprovoked,Surf skiing ,N,6/28/08,2008,South Africa,2,Last Quarter,48883844.99,0,0,1,0
+1179,Unprovoked,Spearfishing (free diving),N,6/26/08,2008,South Africa,2,Last Quarter,48883844.99,0,0,1,0
+1180,Boating,Kayaking,N,8/2/10,2010,United States,-8,Last Quarter,306771529,0,0,1,0
+1181,Unprovoked,Fishing,N,11/16/09,2009,United States,-8,New Moon,304093966,0,0,0,1
+1182,Unprovoked,Surfing,N,6/24/08,2008,Brazil,-3,Last Quarter,191026637,0,0,1,0
+1183,Unprovoked,Surfing,N,10/13/07,2007,United States,-8,New Moon,298379912,0,0,0,1
+1185,Unprovoked,Surfing,N,6/11/08,2008,Brazil,-3,First Quarter,191026637,1,0,0,0
+1186,Unprovoked,Stand-Up Paddleboarding,N,10/26/17,2017,United States,-10,First Quarter,323127513,1,0,0,0
+1187,Boating,Fishing,N,6/2/08,2008,United Kingdom,0,New Moon,61322463,0,0,0,1
+1188,Unprovoked,Surfing,N,10/9/17,2017,United States,-10,Full Moon,323127513,0,1,0,0
+1189,Unprovoked,Swimming,N,6/1/08,2008,Brazil,-3,New Moon,191026637,0,0,0,1
+1190,Unprovoked,Snorkeling,N,10/5/17,2017,United States,-10,Full Moon,323127513,0,1,0,0
+1191,Sea Disaster,Sea Disaster,N,5/24/08,2008,Bahamas,-5,Full Moon,342328,0,1,0,0
+1192,Unprovoked,Surfing,N,5/24/08,2008,Mexico,-6,Full Moon,111836346,0,1,0,0
+1193,Unprovoked,Surfing,Y,5/23/08,2008,Mexico,-6,Full Moon,111836346,0,1,0,0
+1194,Unprovoked,Night diving,Y,5/14/08,2008,Fiji,13,First Quarter,834812,1,0,0,0
+1195,Unprovoked,Swimming,N,5/10/08,2008,Australia,8,First Quarter,20827600,1,0,0,0
+1196,Unprovoked,Fishing,N,5/7/08,2008,New Caledonia,11,New Moon,238000,0,0,0,1
+1197,Unprovoked,Surfing,N,4/14/17,2017,United States,-10,Full Moon,323127513,0,1,0,0
+1198,Provoked,Fishing,N,5/1/08,2008,South Africa,2,Last Quarter,48883844.99,0,0,1,0
+1199,Unprovoked,Surfing,Y,4/28/08,2008,Mexico,-6,Last Quarter,111836346,0,0,1,0
+1200,Unprovoked,Floating,N,11/14/16,2016,United States,-10,Full Moon,320896618,0,1,0,0
+1201,Unprovoked,Surfing,N,10/21/16,2016,United States,-10,Last Quarter,320896618,0,0,1,0
+1202,Unprovoked,Swimming,N,4/26/08,2008,New Caledonia,11,Last Quarter,238000,0,0,1,0
+1203,Unprovoked,Snorkeling,N,10/14/16,2016,United States,-10,Full Moon,320896618,0,1,0,0
+1204,Unprovoked,SUP Foil boarding,N,8/6/16,2016,United States,-10,New Moon,320896618,0,0,0,1
+1205,Unprovoked,Surfing,N,6/15/16,2016,United States,-10,First Quarter,320896618,1,0,0,0
+1206,Unprovoked,Surfing,N,4/20/08,2008,Australia,11,Full Moon,20827600,0,1,0,0
+1210,Unprovoked,Floating,N,5/3/16,2016,United States,-10,Last Quarter,320896618,0,0,1,0
+1211,Unprovoked,Spearfishing,N,4/9/08,2008,Fiji,13,New Moon,834812,0,0,0,1
+1212,Unprovoked,Snorkeling,N,3/31/16,2016,United States,-10,Last Quarter,320896618,0,0,1,0
+1213,Unprovoked,Surfing,N,1/28/16,2016,United States,-10,Full Moon,320896618,0,1,0,0
+1214,Unprovoked,Body boarding,Y,4/8/08,2008,Australia,11,New Moon,20827600,0,0,0,1
+1215,Unprovoked,Surfing,N,1/25/16,2016,United States,-10,Full Moon,320896618,0,1,0,0
+1216,Unprovoked,Fishing from surfski,N,3/28/08,2008,South Africa,2,Last Quarter,48883844.99,0,0,1,0
+1217,Unprovoked,Paddle boarding,N,1/23/16,2016,United States,-10,Full Moon,320896618,0,1,0,0
+1218,Unprovoked,Paddle boarding,N,12/22/15,2015,United States,-10,First Quarter,318563456,1,0,0,0
+1219,Unprovoked,Swimming,N,11/3/15,2015,United States,-10,Last Quarter,318563456,0,0,1,0
+1221,Unprovoked,Swimming,N,10/17/15,2015,United States,-10,First Quarter,318563456,1,0,0,0
+1222,Unprovoked,Surfing,N,10/9/15,2015,United States,-10,New Moon,318563456,0,0,0,1
+1223,Unprovoked,Diving,Y,2/24/08,2008,Bahamas,-5,Full Moon,342328,0,1,0,0
+1224,Unprovoked,Spearfishing,N,2/21/08,2008,French Polynesia,-10,Full Moon,260594,0,1,0,0
+1225,Unprovoked,Spearfishing,N,9/20/15,2015,United States,-10,First Quarter,318563456,1,0,0,0
+1226,Unprovoked,Surfing,N,2/7/08,2008,Australia,11,New Moon,20827600,0,0,0,1
+1227,Unprovoked,Snorkeling,Y,4/29/15,2015,United States,-10,First Quarter,318563456,1,0,0,0
+1228,Provoked,Diving,,1/30/08,2008,Japan,9,Last Quarter,128001000,0,0,1,0
+1229,Unprovoked,Surf-skiing,N,1/29/08,2008,South Africa,2,Last Quarter,48883844.99,0,0,1,0
+1230,Provoked,Accidentally stood on hooked shark's tail before attempting to gut it ,N,1/27/08,2008,Australia,10,Last Quarter,20827600,0,0,1,0
+1232,Boat,Attempting to chase shark out to sea,N,1/14/08,2008,New Zealand,13,First Quarter,4223800,1,0,0,0
+1233,Unprovoked,Standing / Snorkeling,N,3/18/15,2015,United States,-10,New Moon,318563456,0,0,0,1
+1234,Provoked,Shark fishing,N,1/27/15,2015,United States,-10,First Quarter,318563456,1,0,0,0
+1235,Unprovoked,Surfing,N,,2008,Mexico,-8,New Moon,111836346,0,0,0,1
+1236,Unprovoked,Surfing,N,12/21/07,2007,Ecuador,-6,Full Moon,13967480,0,1,0,0
+1238,Unprovoked,Surfing,N,12/18/07,2007,Australia,11,First Quarter,20697900,1,0,0,0
+1239,Unprovoked,Swimming,N,12/15/07,2007,Australia,10,First Quarter,20697900,1,0,0,0
+1241,Unprovoked,Snorkeling,N,11/13/14,2014,United States,-10,Last Quarter,316204908,0,0,1,0
+1242,Unprovoked,Surfing,N,12/9/07,2007,New Zealand,13,New Moon,4184600,0,0,0,1
+1243,Unprovoked,Removing fish from a trap,N,12/7/07,2007,Brazil,-3,New Moon,189012412,0,0,0,1
+1244,Provoked,Fishing,N,11/18/07,2007,Australia,8,First Quarter,20697900,1,0,0,0
+1245,Unprovoked,Surfing,N,11/8/07,2007,Australia,11,New Moon,20697900,0,0,0,1
+1246,Unprovoked,Surfing,N,11/7/07,2007,South Africa,2,New Moon,48233804.48,0,0,0,1
+1247,Unprovoked,Surfing,N,10/31/14,2014,United States,-10,First Quarter,316204908,1,0,0,0
+1248,Unprovoked,Stand-Up Paddleboarding,N,10/22/14,2014,United States,-10,New Moon,316204908,0,0,0,1
+1249,Unprovoked,Surfing,N,11/3/07,2007,South Africa,2,Last Quarter,48233804.48,0,0,1,0
+1250,Unprovoked,Stand-Up Paddleboarding,N,10/20/14,2014,United States,-10,New Moon,316204908,0,0,0,1
+1251,Unprovoked,Surf-skiing,N,10/29/07,2007,Australia,11,Full Moon,20697900,0,1,0,0
+1252,Unprovoked,Spearfishing,N,10/15/07,2007,Australia,10,New Moon,20697900,0,0,0,1
+1253,Unprovoked,Surfing,N,10/18/14,2014,United States,-10,Last Quarter,316204908,0,0,1,0
+1254,Unprovoked,Swimming,N,7/16/14,2014,United States,-10,Last Quarter,316204908,0,0,1,0
+1255,Unprovoked,Boogie boarding,N,12/10/13,2013,United States,-10,First Quarter,313998379,1,0,0,0
+1256,Sea Disaster,"The 426-ton cargo ship Mia, laden with cement, capsized in heavy seas ",Y,9/30/07,2007,Philippines,8,Full Moon,87809419,0,1,0,0
+1257,Unprovoked,Swimming,Y,9/30/07,2007,New Caledonia,11,Full Moon,235000,0,1,0,0
+1258,Unprovoked,Spearfishing,N,9/30/07,2007,Bahamas,-5,Full Moon,335830,0,1,0,0
+1259,Unprovoked,Kayaking / Fishing,Y,11/30/13,2013,United States,-10,New Moon,313998379,0,0,0,1
+1261,Unprovoked,Snorkeling,N,11/23/13,2013,United States,-10,Last Quarter,313998379,0,0,1,0
+1262,Unprovoked,Kiteboarding,N,10/28/13,2013,United States,-10,Last Quarter,313998379,0,0,1,0
+1263,Unprovoked,Diving ,N,10/20/13,2013,United States,-10,Full Moon,313998379,0,1,0,0
+1264,Unprovoked,Spearfishing,N,9/20/07,2007,Solomon Islands,11,First Quarter,481422,1,0,0,0
+1265,Unprovoked,Surfing,N,10/19/13,2013,United States,-10,Full Moon,313998379,0,1,0,0
+1266,Unprovoked,Surfing,N,8/17/13,2013,United States,-10,First Quarter,313998379,1,0,0,0
+1267,Unprovoked,Snorkeling,Y,8/13/13,2013,United States,-10,First Quarter,313998379,1,0,0,0
+1268,Unprovoked,Kiteboarding,N,8/11/13,2013,United States,-10,First Quarter,313998379,1,0,0,0
+1269,Unprovoked,Snorkeling,N,7/30/13,2013,United States,-10,Last Quarter,313998379,0,0,1,0
+1270,Unprovoked,Surfing,N,7/28/13,2013,United States,-10,Last Quarter,313998379,0,0,1,0
+1271,Unprovoked,Swimming,N,6/17/13,2013,United States,-10,First Quarter,313998379,1,0,0,0
+1272,Unprovoked,Diving,N,5/27/13,2013,United States,-10,Full Moon,313998379,0,1,0,0
+1273,Unprovoked,Surfing,N,4/2/13,2013,United States,-10,Last Quarter,313998379,0,0,1,0
+1274,Unprovoked,Surfing,N,2/21/13,2013,United States,-10,First Quarter,313998379,1,0,0,0
+1275,Unprovoked,Surfing,N,1/16/13,2013,United States,-10,First Quarter,313998379,1,0,0,0
+1276,Unprovoked,Surfing,N,12/2/12,2012,United States,-10,Full Moon,311663358,0,1,0,0
+1277,Unprovoked,Snorkeling,N,11/27/12,2012,United States,-10,Full Moon,311663358,0,1,0,0
+1278,Unprovoked,Diving,N,11/4/12,2012,United States,-10,Last Quarter,311663358,0,0,1,0
+1279,Unprovoked,Swimming,N,10/23/12,2012,United States,-10,First Quarter,311663358,1,0,0,0
+1280,Unprovoked,Paddle boarding,N,10/16/12,2012,United States,-10,New Moon,311663358,0,0,0,1
+1281,Provoked,Spearfishing,N,9/2/12,2012,United States,-10,Full Moon,311663358,0,1,0,0
+1282,Unprovoked,Surfing,N,7/30/12,2012,United States,-10,Full Moon,311663358,0,1,0,0
+1283,Boating,Kayak Fishing,N,5/16/12,2012,United States,-10,Last Quarter,311663358,0,0,1,0
+1284,Unprovoked,Snorkeling,N,1/27/12,2012,United States,-10,New Moon,311663358,0,0,0,1
+1285,Provoked,Canoeing,N,12/21/11,2011,United States,-10,Last Quarter,309348193,0,0,1,0
+1286,Boat,Canoeing,N,9/20/11,2011,United States,-10,Last Quarter,309348193,0,0,1,0
+1287,Unprovoked,Surfing,N,9/4/11,2011,United States,-10,First Quarter,309348193,1,0,0,0
+1288,Unprovoked,Surfing,N,5/29/11,2011,United States,-10,New Moon,309348193,0,0,0,1
+1289,Unprovoked,Body boarding,N,12/26/10,2010,United States,-10,Last Quarter,306771529,0,0,1,0
+1290,Unprovoked,Surfing,N,4/19/10,2010,United States,-10,First Quarter,306771529,1,0,0,0
+1291,Unprovoked,Surfing,N,10/19/09,2009,United States,-10,New Moon,304093966,0,0,0,1
+1294,Unprovoked,Swimming,N,3/17/09,2009,United States,-10,Last Quarter,304093966,0,0,1,0
+1295,Provoked,Scuba diving,N,7/18/07,2007,Norway,2,New Moon,4660677,0,0,0,1
+1297,Unprovoked,Diving,N,8/11/08,2008,United States,-10,First Quarter,301231207,1,0,0,0
+1298,Unprovoked,Spearfishing,N,7/17/07,2007,Bahamas,-5,New Moon,335830,0,0,0,1
+1299,Unprovoked,Swimming,N,7/26/08,2008,United States,-10,Last Quarter,301231207,0,0,1,0
+1300,Unprovoked,Body boarding,N,7/5/07,2007,Reunion,4,Last Quarter,780000,0,0,1,0
+1302,Unprovoked,Snorkeling,N,7/25/08,2008,United States,-10,Last Quarter,301231207,0,0,1,0
+1304,Unprovoked,Surfing,N,12/10/07,2007,United States,-10,New Moon,298379912,0,0,0,1
+1305,Unprovoked,Floating,N,,2007,United States,-10,New Moon,298379912,0,0,0,1
+1306,Unprovoked,Body boarding,N,9/3/07,2007,United States,-10,Last Quarter,298379912,0,0,1,0
+1307,Unprovoked,Snorkeling,N,7/21/07,2007,United States,-10,First Quarter,298379912,1,0,0,0
+1308,Unprovoked,Surfing,N,6/12/07,2007,Australia,11,New Moon,20697900,0,0,0,1
+1309,Unprovoked,Snorkeling,N,5/8/07,2007,United States,-10,Last Quarter,298379912,0,0,1,0
+1310,Unprovoked,Surfing,N,1/7/07,2007,United States,-10,Last Quarter,298379912,0,0,1,0
+1311,Provoked,Fishing,N,5/24/07,2007,United Kingdom,0,First Quarter,60846820,1,0,0,0
+1312,Unprovoked,Wading,N,5/17/07,2007,Australia,8,New Moon,20697900,0,0,0,1
+1313,Unprovoked,Surfing,N,5/16/07,2007,Australia,11,New Moon,20697900,0,0,0,1
+1314,Unprovoked,Swimming,N,9/7/16,2016,United States,-10,First Quarter,320896618,1,0,0,0
+1315,Unprovoked,Snorkeling,N,5/10/07,2007,Seychelles,4,Last Quarter,84600,0,0,1,0
+1317,Unprovoked,Body boarding,N,10/28/15,2015,United States,-10,Full Moon,318563456,0,1,0,0
+1318,Unprovoked,Surfing,N,2/21/13,2013,United States,-10,First Quarter,313998379,1,0,0,0
+1319,Sea Disaster,Sea Disaster,Y,5/7/07,2007,Turks & Caicos,-4,Last Quarter,27642,0,0,1,0
+1320,Provoked,Shark tagging,N,5/4/07,2007,Bahamas,-5,Full Moon,335830,0,1,0,0
+1321,Unprovoked,Swimming / jumping off a jetty,N,,2007,Australia,10,New Moon,20697900,0,0,0,1
+1322,Unprovoked,Surfing,N,10/30/12,2012,United States,-10,Full Moon,311663358,0,1,0,0
+1323,Unprovoked,Sitting in the water,N,6/22/12,2012,United States,-10,New Moon,311663358,0,0,0,1
+1324,Unprovoked,Surfing,N,,2012,United States,-10,New Moon,311663358,0,0,0,1
+1325,Unprovoked,Surfing,N,4/13/07,2007,New Caledonia,11,Last Quarter,235000,0,0,1,0
+1326,Unprovoked,Paddle boarding,N,5/25/11,2011,United States,-10,Last Quarter,309348193,0,0,1,0
+1327,Unprovoked,Surfing,N,12/11/10,2010,United States,-10,First Quarter,306771529,1,0,0,0
+1328,Unprovoked,Surfing,N,8/6/09,2009,United States,-10,Full Moon,304093966,0,1,0,0
+1329,Unprovoked,Murder,Y,3/31/07,2007,Yemen,3,Full Moon,21160534,0,1,0,0
+1330,Unprovoked,Surfing,N,9/9/08,2008,United States,-10,First Quarter,301231207,1,0,0,0
+1331,Unprovoked,Surfing,N,3/21/07,2007,Australia,11,New Moon,20697900,0,0,0,1
+1332,Unprovoked,Surfing,N,6/25/07,2007,United States,-10,First Quarter,298379912,1,0,0,0
+1333,Unprovoked,Swimming,N,3/14/07,2007,Australia,10,Last Quarter,20697900,0,0,1,0
+1335,Provoked,Spearfishing,N,3/11/07,2007,Cook Islands,-10,Last Quarter,14976,0,0,1,0
+1337,Unprovoked,Boogie Boarding,N,2/4/07,2007,Australia,11,Full Moon,20697900,0,1,0,0
+1338,Unprovoked,Spearfishing,N,2/3/07,2007,New Caledonia,11,Full Moon,235000,0,1,0,0
+1339,Unprovoked,Spearfishing (free diving),N,,2007,New Caledonia,11,New Moon,235000,0,0,0,1
+1340,Unprovoked,Tagging sharks,N,6/1/14,2014,United States,-11,New Moon,316204908,0,0,0,1
+1341,Unprovoked,Diving,N,1/25/07,2007,Australia,11,First Quarter,20697900,1,0,0,0
+1343,Unprovoked,Swimming / Body Surfing,Y,1/19/07,2007,South Africa,2,New Moon,48233804.48,0,0,0,1
+1344,Unprovoked,Surfing,N,1/14/07,2007,Australia,11,Last Quarter,20697900,0,0,1,0
+1345,Provoked,Snorkeling,N,11/19/10,2010,United States,-11,Full Moon,306771529,0,1,0,0
+1346,Unprovoked,Scuba diving,N,10/23/10,2010,United States,-5,Full Moon,306771529,0,1,0,0
